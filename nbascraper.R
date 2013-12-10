@@ -24,9 +24,8 @@ readIt <- function(address){
   x2 <- gsub("[\\[]", "\n", x1, perl=TRUE)
   x3 <- gsub("\"rowSet\":\n", "", x2, perl=TRUE)
   x4 <- gsub(";", ",",x3, perl=TRUE)
-  
-  write(x4, "./nba.txt")
-  nba<-read.table("./nba.txt", header=T, sep=",", skip=2, stringsAsFactors=FALSE)
+
+  nba<-read.table(textConnection(x4), header=T, sep=",", skip=2, stringsAsFactors=FALSE)
   nba <- nba[,1:ncol(nba)-1] #strip last column
   
   return(nba)
