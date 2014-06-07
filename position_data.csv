@@ -1,0 +1,612 @@
+FIRST_NAME,LAST_NAME,COUNTRY,DISPLAY_FIRST_LAST,TEAM_ABBREVIATION,SCHOOL,BIRTHDATE,TEAM_ID,TEAM_CODE,DISPLAY_FI_LAST,TEAM_CITY,PLAYERCODE,PERSON_ID,POSITION,DISPLAY_LAST_COMMA_FIRST,LAST_AFFILIATION,ROSTERSTATUS,TEAM_NAME,JERSEY
+Andrew,Bogut,Australia,Andrew Bogut,GSW,Utah,1984-11-28T00:00:00,1610612744,warriors,A. Bogut,Golden State,andrew_bogut,101106,Center,"Bogut, Andrew",Utah/Australia,Active,Warriors,12
+Marvin,Williams,USA,Marvin Williams,UTA,North Carolina,1986-06-19T00:00:00,1610612762,jazz,M. Williams,Utah,marvin_williams,101107,Forward,"Williams, Marvin",North Carolina/USA,Active,Jazz,2
+Chris,Paul,USA,Chris Paul,LAC,Wake Forest,1985-05-06T00:00:00,1610612746,clippers,C. Paul,Los Angeles,chris_paul,101108,Guard,"Paul, Chris",Wake Forest/USA,Active,Clippers,3
+Raymond,Felton,USA,Raymond Felton,NYK,North Carolina,1984-06-26T00:00:00,1610612752,knicks,R. Felton,New York,raymond_felton,101109,Guard,"Felton, Raymond",North Carolina/USA,Active,Knicks,2
+Martell,Webster,USA,Martell Webster,WAS,Seattle Prep HS (WA),1986-12-04T00:00:00,1610612764,wizards,M. Webster,Washington,martell_webster,101110,Forward-Guard,"Webster, Martell",Seattle Prep HS (WA)/USA,Active,Wizards,9
+Charlie,Villanueva,USA,Charlie Villanueva,DET,Connecticut,1984-08-24T00:00:00,1610612765,pistons,C. Villanueva,Detroit,charlie_villanueva,101111,Forward,"Villanueva, Charlie",Connecticut/USA,Active,Pistons,31
+Channing,Frye,USA,Channing Frye,PHX,Arizona,1983-05-17T00:00:00,1610612756,suns,C. Frye,Phoenix,channing_frye,101112,Forward-Center,"Frye, Channing",Arizona/USA,Active,Suns,8
+Deron,Williams,USA,Deron Williams,BKN,Illinois,1984-06-26T00:00:00,1610612751,nets,D. Williams,Brooklyn,deron_williams,101114,Guard,"Williams, Deron",Illinois/USA,Active,Nets,8
+Andrew,Bynum,USA,Andrew Bynum,IND,St. Joseph HS (NJ),1987-10-27T00:00:00,1610612754,pacers,A. Bynum,Indiana,andrew_bynum,101115,Center,"Bynum, Andrew",St. Joseph HS (NJ)/USA,Active,Pacers,17
+Andrew,Bynum,USA,Andrew Bynum,IND,St. Joseph HS (NJ),1987-10-27T00:00:00,1610612754,pacers,A. Bynum,Indiana,andrew_bynum,101115,Center,"Bynum, Andrew",St. Joseph HS (NJ)/USA,Active,Pacers,17
+Andrew,Bynum,USA,Andrew Bynum,IND,St. Joseph HS (NJ),1987-10-27T00:00:00,1610612754,pacers,A. Bynum,Indiana,andrew_bynum,101115,Center,"Bynum, Andrew",St. Joseph HS (NJ)/USA,Active,Pacers,17
+Danny,Granger,USA,Danny Granger,LAC,New Mexico,1983-04-20T00:00:00,1610612746,clippers,D. Granger,Los Angeles,danny_granger,101122,Forward,"Granger, Danny",New Mexico/USA,Active,Clippers,33
+Danny,Granger,USA,Danny Granger,LAC,New Mexico,1983-04-20T00:00:00,1610612746,clippers,D. Granger,Los Angeles,danny_granger,101122,Forward,"Granger, Danny",New Mexico/USA,Active,Clippers,33
+Danny,Granger,USA,Danny Granger,LAC,New Mexico,1983-04-20T00:00:00,1610612746,clippers,D. Granger,Los Angeles,danny_granger,101122,Forward,"Granger, Danny",New Mexico/USA,Active,Clippers,33
+Gerald,Green,USA,Gerald Green,PHX,Gulf Shores Aca. (TX),1986-01-26T00:00:00,1610612756,suns,G. Green,Phoenix,gerald_green,101123,Guard-Forward,"Green, Gerald",Gulf Shores Academy (TX)/USA,Active,Suns,14
+Nate,Robinson,USA,Nate Robinson,DEN,Washington,1984-05-31T00:00:00,1610612743,nuggets,N. Robinson,Denver,nate_robinson,101126,Guard,"Robinson, Nate",Washington/USA,Active,Nuggets,10
+Jarrett,Jack,USA,Jarrett Jack,CLE,Georgia Tech,1983-10-28T00:00:00,1610612739,cavaliers,J. Jack,Cleveland,jarrett_jack,101127,Guard,"Jack, Jarrett",Georgia Tech/USA,Active,Cavaliers,1
+Francisco,Garcia,Dominican Republic,Francisco Garcia,HOU,Louisville,1980-12-31T00:00:00,1610612745,rockets,F. Garcia,Houston,francisco_garcia,101128,Guard-Forward,"Garcia, Francisco",Louisville/Dominican Republic,Active,Rockets,32
+Jason,Maxiell,USA,Jason Maxiell,ORL,Cincinnati,1983-02-18T00:00:00,1610612753,magic,J. Maxiell,Orlando,jason_maxiell,101131,Forward,"Maxiell, Jason",Cincinnati/USA,Active,Magic,54
+Ian,Mahinmi,France,Ian Mahinmi,IND,"Rouen, France",1986-11-05T00:00:00,1610612754,pacers,I. Mahinmi,Indiana,ian_mahinmi,101133,Center,"Mahinmi, Ian",Pau Orthez/France,Active,Pacers,28
+David,Lee,USA,David Lee,GSW,Florida,1983-04-29T00:00:00,1610612744,warriors,D. Lee,Golden State,david_lee,101135,Forward,"Lee, David",Florida/USA,Active,Warriors,10
+Brandon,Bass,USA,Brandon Bass,BOS,Louisiana State,1985-04-30T00:00:00,1610612738,celtics,B. Bass,Boston,brandon_bass,101138,Forward,"Bass, Brandon",Louisiana State/USA,Active,Celtics,30
+CJ,Miles,USA,CJ Miles,CLE,Skyline HS (TX),1987-03-18T00:00:00,1610612739,cavaliers,C. Miles,Cleveland,cj_miles,101139,Guard,"Miles, CJ","Skyline HS (Dallas, TX)/USA",Active,Cavaliers,0
+Ersan,Ilyasova,Turkey,Ersan Ilyasova,MIL,"Eskisehir, Turkey",1987-05-15T00:00:00,1610612749,bucks,E. Ilyasova,Milwaukee,ersan_ilyasova,101141,Forward,"Ilyasova, Ersan",FC Barcelona/Turkey,Active,Bucks,7
+Ronny,Turiaf,France,Ronny Turiaf,MIN,Gonzaga,1983-01-13T00:00:00,1610612750,timberwolves,R. Turiaf,Minnesota,ronny_turiaf,101142,Center,"Turiaf, Ronny",Gonzaga/France,Active,Timberwolves,32
+Monta,Ellis,USA,Monta Ellis,DAL,"Lanier HS (Jackson, MS)",1985-10-26T00:00:00,1610612742,mavericks,M. Ellis,Dallas,monta_ellis,101145,Guard,"Ellis, Monta","Lanier HS (Jackson, MS)/USA",Active,Mavericks,11
+Louis,Williams,USA,Louis Williams,ATL,South Gwinnett HS (GA),1986-10-27T00:00:00,1610612737,hawks,L. Williams,Atlanta,louis_williams,101150,Guard,"Williams, Louis","South Gwinnett HS (Snellville, GA)/USA",Active,Hawks,3
+Andray,Blatche,USA,Andray Blatche,BKN,South Kent Prep (CT),1986-08-22T00:00:00,1610612751,nets,A. Blatche,Brooklyn,andray_blatche,101154,Center-Forward,"Blatche, Andray",South Kent Prep (CT)/USA,Active,Nets,0
+Ryan,Gomes,USA,Ryan Gomes,,Providence,1982-09-01T00:00:00,0,,R. Gomes,,ryan_gomes,101155,,"Gomes, Ryan",Providence/USA,Inactive,,
+Amir,Johnson,USA,Amir Johnson,TOR,Westchester HS (Los Angeles),1987-05-01T00:00:00,1610612761,raptors,A. Johnson,Toronto,amir_johnson,101161,Forward,"Johnson, Amir","Westchester HS (Los Angeles, CA)/USA",Active,Raptors,15
+Marcin,Gortat,Poland,Marcin Gortat,WAS,"Lodz, Poland",1984-02-17T00:00:00,1610612764,wizards,M. Gortat,Washington,marcin_gortat,101162,Center,"Gortat, Marcin",RheinEnergie Cologne/Germany,Active,Wizards,4
+Ronnie,Price,USA,Ronnie Price,ORL,Utah Valley University,1983-06-21T00:00:00,1610612753,magic,R. Price,Orlando,ronnie_price,101179,Guard,"Price, Ronnie",Utah Valley University/USA,Active,Magic,10
+Jose,Calderon,Spain,Jose Calderon,DAL,"Villanueva de la Serena, Spain",1981-09-28T00:00:00,1610612742,mavericks,J. Calderon,Dallas,jose_calderon,101181,Guard,"Calderon, Jose",Tau Ceramica/Spain,Active,Mavericks,8
+Shavlik,Randolph,USA,Shavlik Randolph,PHX,Duke,1983-11-24T00:00:00,1610612756,suns,S. Randolph,Phoenix,shavlik_randolph,101183,Forward,"Randolph, Shavlik",Duke/USA,Active,Suns,43
+Alan,Anderson,USA,Alan Anderson,BKN,Michigan State,1982-10-16T00:00:00,1610612751,nets,A. Anderson,Brooklyn,alan_anderson,101187,Forward-Guard,"Anderson, Alan",Michigan State/USA,Active,Nets,6
+Will,Bynum,USA,Will Bynum,DET,Georgia Tech,1983-01-04T00:00:00,1610612765,pistons,W. Bynum,Detroit,will_bynum,101198,Guard,"Bynum, Will",Georgia Tech/USA,Active,Pistons,12
+Charles,Hayes,USA,Charles Hayes,TOR,Kentucky,1983-06-11T00:00:00,1610612761,raptors,C. Hayes,Toronto,chuck_hayes,101236,Forward,"Hayes, Charles",Kentucky/USA,Active,Raptors,44
+Charles,Hayes,USA,Charles Hayes,TOR,Kentucky,1983-06-11T00:00:00,1610612761,raptors,C. Hayes,Toronto,chuck_hayes,101236,Forward,"Hayes, Charles",Kentucky/USA,Active,Raptors,44
+Charles,Hayes,USA,Charles Hayes,TOR,Kentucky,1983-06-11T00:00:00,1610612761,raptors,C. Hayes,Toronto,chuck_hayes,101236,Forward,"Hayes, Charles",Kentucky/USA,Active,Raptors,44
+John,Lucas III,USA,John Lucas III,UTA,Oklahoma State,1982-11-21T00:00:00,1610612762,jazz,J. Lucas III,Utah,john_iii_lucas,101249,Guard,"Lucas III, John",Oklahoma State/USA,Active,Jazz,5
+Tim,Duncan,U.S. Virgin Islands,Tim Duncan,SAS,Wake Forest,1976-04-25T00:00:00,1610612759,spurs,T. Duncan,San Antonio,tim_duncan,1495,Forward,"Duncan, Tim",Wake Forest/U.S. Virgin Islands,Active,Spurs,21
+Chauncey,Billups,USA,Chauncey Billups,DET,Colorado,1976-09-25T00:00:00,1610612765,pistons,C. Billups,Detroit,chauncey_billups,1497,Guard,"Billups, Chauncey",Colorado/USA,Active,Pistons,1
+Stephen,Jackson,USA,Stephen Jackson,,Butler C.C. (KS),1978-04-05T00:00:00,0,,S. Jackson,,stephen_jackson,1536,,"Jackson, Stephen","Oak Hill Academy (Mouth of Wilson, VA)/USA",Inactive,,
+Antawn,Jamison,USA,Antawn Jamison,,North Carolina,1976-06-12T00:00:00,0,,A. Jamison,,antawn_jamison,1712,,"Jamison, Antawn",North Carolina/USA,Inactive,,
+Vince,Carter,USA,Vince Carter,DAL,North Carolina,1977-01-26T00:00:00,1610612742,mavericks,V. Carter,Dallas,vince_carter,1713,Guard-Forward,"Carter, Vince",North Carolina/USA,Active,Mavericks,25
+Dirk,Nowitzki,Germany,Dirk Nowitzki,DAL,"Wurzburg, Germany",1978-06-19T00:00:00,1610612742,mavericks,D. Nowitzki,Dallas,dirk_nowitzki,1717,Forward,"Nowitzki, Dirk",DJK Wurzburg/Germany,Active,Mavericks,41
+Paul,Pierce,USA,Paul Pierce,BKN,Kansas,1977-10-13T00:00:00,1610612751,nets,P. Pierce,Brooklyn,paul_pierce,1718,Forward,"Pierce, Paul",Kansas/USA,Active,Nets,34
+Al,Harrington,USA,Al Harrington,WAS,St. Patrick's HS (NJ),1980-02-17T00:00:00,1610612764,wizards,A. Harrington,Washington,al_harrington,1733,Forward,"Harrington, Al","St. Patrick's HS (Elizabeth, NJ)/USA",Active,Wizards,7
+Nazr,Mohammed,USA,Nazr Mohammed,CHI,Kentucky,1977-09-05T00:00:00,1610612741,bulls,N. Mohammed,Chicago,nazr_mohammed,1737,Center,"Mohammed, Nazr",Kentucky/USA,Active,Bulls,48
+Rashard,Lewis,USA,Rashard Lewis,MIA,Alief Elsik HS (TX),1979-08-08T00:00:00,1610612748,heat,R. Lewis,Miami,rashard_lewis,1740,Forward,"Lewis, Rashard",Alief Elsik HS (TX)/USA,Active,Heat,9
+Elton,Brand,USA,Elton Brand,ATL,Duke,1979-03-11T00:00:00,1610612737,hawks,E. Brand,Atlanta,elton_brand,1882,Forward,"Brand, Elton",Duke/USA,Active,Hawks,42
+Andre,Miller,USA,Andre Miller,WAS,Utah,1976-03-19T00:00:00,1610612764,wizards,A. Miller,Washington,andre_miller,1889,Guard,"Miller, Andre",Utah/USA,Active,Wizards,24
+Andre,Miller,USA,Andre Miller,WAS,Utah,1976-03-19T00:00:00,1610612764,wizards,A. Miller,Washington,andre_miller,1889,Guard,"Miller, Andre",Utah/USA,Active,Wizards,24
+Andre,Miller,USA,Andre Miller,WAS,Utah,1976-03-19T00:00:00,1610612764,wizards,A. Miller,Washington,andre_miller,1889,Guard,"Miller, Andre",Utah/USA,Active,Wizards,24
+Shawn,Marion,USA,Shawn Marion,DAL,UNLV,1978-05-07T00:00:00,1610612742,mavericks,S. Marion,Dallas,shawn_marion,1890,Forward,"Marion, Shawn",UNLV/USA,Active,Mavericks,0
+Jason,Terry,USA,Jason Terry,SAC,Arizona,1977-09-15T00:00:00,1610612758,kings,J. Terry,Sacramento,jason_terry,1891,Guard,"Terry, Jason",Arizona/USA,Active,Kings,31
+Metta,World Peace,USA,Metta World Peace,,"St. John's, N.Y.",1979-11-13T00:00:00,0,,M. World Peace,,metta_world_peace,1897,,"World Peace, Metta",St. John's/USA,Inactive,,
+Andrei,Kirilenko,Russia,Andrei Kirilenko,BKN,"St. Petersburg, Russia",1981-02-18T00:00:00,1610612751,nets,A. Kirilenko,Brooklyn,andrei_kirilenko,1905,Forward,"Kirilenko, Andrei","St. Petersburg, Russia",Active,Nets,47
+Manu,Ginobili,Argentina,Manu Ginobili,SAS,"Bahia Blanca, Argentina",1977-07-28T00:00:00,1610612759,spurs,M. Ginobili,San Antonio,emanuel_ginobili,1938,Guard,"Ginobili, Manu",Kinder Bologna/Argentina,Active,Spurs,20
+Andrea,Bargnani,Italy,Andrea Bargnani,NYK,"Rome, Italy",1985-10-26T00:00:00,1610612752,knicks,A. Bargnani,New York,andrea_bargnani,200745,Center-Forward,"Bargnani, Andrea",Benetton Treviso/Italy,Active,Knicks,77
+LaMarcus,Aldridge,USA,LaMarcus Aldridge,POR,Texas,1985-07-19T00:00:00,1610612757,blazers,L. Aldridge,Portland,lamarcus_aldridge,200746,Forward,"Aldridge, LaMarcus",Texas/USA,Active,Trail Blazers,12
+Randy,Foye,USA,Randy Foye,DEN,Villanova,1983-09-24T00:00:00,1610612743,nuggets,R. Foye,Denver,randy_foye,200751,Guard,"Foye, Randy",Villanova/USA,Active,Nuggets,4
+Rudy,Gay,USA,Rudy Gay,SAC,Connecticut,1986-08-17T00:00:00,1610612758,kings,R. Gay,Sacramento,rudy_gay,200752,Forward,"Gay, Rudy",Connecticut/USA,Active,Kings,8
+Rudy,Gay,USA,Rudy Gay,SAC,Connecticut,1986-08-17T00:00:00,1610612758,kings,R. Gay,Sacramento,rudy_gay,200752,Forward,"Gay, Rudy",Connecticut/USA,Active,Kings,8
+Rudy,Gay,USA,Rudy Gay,SAC,Connecticut,1986-08-17T00:00:00,1610612758,kings,R. Gay,Sacramento,rudy_gay,200752,Forward,"Gay, Rudy",Connecticut/USA,Active,Kings,8
+JJ,Redick,USA,JJ Redick,LAC,Duke,1984-06-24T00:00:00,1610612746,clippers,J. Redick,Los Angeles,jj_redick,200755,Guard,"Redick, JJ",Duke/USA,Active,Clippers,4
+Hilton,Armstrong,USA,Hilton Armstrong,GSW,Connecticut,1984-11-23T00:00:00,1610612744,warriors,H. Armstrong,Golden State,hilton_armstrong,200756,Forward-Center,"Armstrong, Hilton",Connecticut/USA,Active,Warriors,57
+Thabo,Sefolosha,Switzerland,Thabo Sefolosha,OKC,"Vevey, Switzerland",1984-05-02T00:00:00,1610612760,thunder,T. Sefolosha,Oklahoma City,thabo_sefolosha,200757,Guard,"Sefolosha, Thabo",Angelico Biella/Switzerland,Active,Thunder,25
+Ronnie,Brewer,USA,Ronnie Brewer,CHI,Arkansas,1985-03-20T00:00:00,1610612741,bulls,R. Brewer,Chicago,ronnie_brewer,200758,Forward,"Brewer, Ronnie",Arkansas/USA,Active,Bulls,11
+Ronnie,Brewer,USA,Ronnie Brewer,CHI,Arkansas,1985-03-20T00:00:00,1610612741,bulls,R. Brewer,Chicago,ronnie_brewer,200758,Forward,"Brewer, Ronnie",Arkansas/USA,Active,Bulls,11
+Ronnie,Brewer,USA,Ronnie Brewer,CHI,Arkansas,1985-03-20T00:00:00,1610612741,bulls,R. Brewer,Chicago,ronnie_brewer,200758,Forward,"Brewer, Ronnie",Arkansas/USA,Active,Bulls,11
+Shawne,Williams,USA,Shawne Williams,,Memphis,1986-02-16T00:00:00,0,,S. Williams,,shawne_williams,200761,,"Williams, Shawne",Memphis/USA,Inactive,,
+Rajon,Rondo,USA,Rajon Rondo,BOS,Kentucky,1986-02-22T00:00:00,1610612738,celtics,R. Rondo,Boston,rajon_rondo,200765,Guard,"Rondo, Rajon",Kentucky/USA,Active,Celtics,9
+Kyle,Lowry,USA,Kyle Lowry,TOR,Villanova,1986-03-25T00:00:00,1610612761,raptors,K. Lowry,Toronto,kyle_lowry,200768,Guard,"Lowry, Kyle",Villanova/USA,Active,Raptors,7
+Shannon,Brown,USA,Shannon Brown,NYK,Michigan State,1985-11-29T00:00:00,1610612752,knicks,S. Brown,New York,shannon_brown,200769,Guard,"Brown, Shannon",Michigan State/USA,Active,Knicks,26
+Shannon,Brown,USA,Shannon Brown,NYK,Michigan State,1985-11-29T00:00:00,1610612752,knicks,S. Brown,New York,shannon_brown,200769,Guard,"Brown, Shannon",Michigan State/USA,Active,Knicks,26
+Shannon,Brown,USA,Shannon Brown,NYK,Michigan State,1985-11-29T00:00:00,1610612752,knicks,S. Brown,New York,shannon_brown,200769,Guard,"Brown, Shannon",Michigan State/USA,Active,Knicks,26
+Jordan,Farmar,USA,Jordan Farmar,LAL,UCLA,1986-11-30T00:00:00,1610612747,lakers,J. Farmar,Los Angeles,jordan_farmar,200770,Guard,"Farmar, Jordan",UCLA/USA,Active,Lakers,1
+Joel,Freeland,England,Joel Freeland,POR,England,1987-02-07T00:00:00,1610612757,blazers,J. Freeland,Portland,joel_freeland,200777,Center-Forward,"Freeland, Joel",Farnborough College (England)/England,Active,Trail Blazers,19
+Steve,Novak,USA,Steve Novak,TOR,Marquette,1983-06-13T00:00:00,1610612761,raptors,S. Novak,Toronto,steve_novak,200779,Forward,"Novak, Steve",Marquette/USA,Active,Raptors,16
+Solomon,Jones,USA,Solomon Jones,,South Florida,1984-07-16T00:00:00,0,,S. Jones,,solomon_jones,200780,,"Jones, Solomon",South Florida/USA,Inactive,,
+PJ,Tucker,USA,PJ Tucker,PHX,Texas,1985-05-05T00:00:00,1610612756,suns,P. Tucker,Phoenix,pj_tucker,200782,Forward-Guard,"Tucker, PJ",Texas/USA,Active,Suns,17
+Paul,Millsap,USA,Paul Millsap,ATL,Louisiana Tech,1985-02-10T00:00:00,1610612737,hawks,P. Millsap,Atlanta,paul_millsap,200794,Forward,"Millsap, Paul",Louisiana Tech/USA,Active,Hawks,4
+Ryan,Hollins,USA,Ryan Hollins,LAC,UCLA,1984-10-10T00:00:00,1610612746,clippers,R. Hollins,Los Angeles,ryan_hollins,200797,Center,"Hollins, Ryan",UCLA/USA,Active,Clippers,15
+Lou,Amundson,USA,Lou Amundson,CHI,UNLV,1982-12-07T00:00:00,1610612741,bulls,L. Amundson,Chicago,lou_amundson,200811,Forward,"Amundson, Lou",Nevada-Las Vegas/USA,Active,Bulls,17
+Lou,Amundson,USA,Lou Amundson,CHI,UNLV,1982-12-07T00:00:00,1610612741,bulls,L. Amundson,Chicago,lou_amundson,200811,Forward,"Amundson, Lou",Nevada-Las Vegas/USA,Active,Bulls,17
+Lou,Amundson,USA,Lou Amundson,CHI,UNLV,1982-12-07T00:00:00,1610612741,bulls,L. Amundson,Chicago,lou_amundson,200811,Forward,"Amundson, Lou",Nevada-Las Vegas/USA,Active,Bulls,17
+Jose Juan,Barea,Puerto Rico,Jose Juan Barea,MIN,Northeastern,1984-06-26T00:00:00,1610612750,timberwolves,J. Barea,Minnesota,jose_barea,200826,Guard,"Barea, Jose Juan",Northeastern/Puerto Rico,Active,Timberwolves,11
+Michael,Harris,USA,Michael Harris,,Rice,1983-06-15T00:00:00,0,,M. Harris,,mike_harris,200839,,"Harris, Michael",Rice/USA,Inactive,,
+Greg,Oden,USA,Greg Oden,MIA,Ohio State,1988-01-22T00:00:00,1610612748,heat,G. Oden,Miami,greg_oden,201141,Center,"Oden, Greg",Ohio State/USA,Active,Heat,20
+Kevin,Durant,USA,Kevin Durant,OKC,Texas,1988-09-29T00:00:00,1610612760,thunder,K. Durant,Oklahoma City,kevin_durant,201142,Forward,"Durant, Kevin",Texas/USA,Active,Thunder,35
+Al,Horford,Dominican Republic,Al Horford,ATL,Florida,1986-06-03T00:00:00,1610612737,hawks,A. Horford,Atlanta,al_horford,201143,Center-Forward,"Horford, Al",Florida/Dominican Republic,Active,Hawks,15
+Mike,Conley,USA,Mike Conley,MEM,Ohio State,1987-10-11T00:00:00,1610612763,grizzlies,M. Conley,Memphis,mike_conley,201144,Guard,"Conley, Mike",Ohio State/USA,Active,Grizzlies,11
+Jeff,Green,USA,Jeff Green,BOS,Georgetown,1986-08-28T00:00:00,1610612738,celtics,J. Green,Boston,jeff_green,201145,Forward,"Green, Jeff",Georgetown/USA,Active,Celtics,8
+Corey,Brewer,USA,Corey Brewer,MIN,Florida,1986-03-05T00:00:00,1610612750,timberwolves,C. Brewer,Minnesota,corey_brewer,201147,Forward,"Brewer, Corey",Florida/USA,Active,Timberwolves,13
+Brandan,Wright,USA,Brandan Wright,DAL,North Carolina,1987-10-05T00:00:00,1610612742,mavericks,B. Wright,Dallas,brandan_wright,201148,Forward,"Wright, Brandan",North Carolina/USA,Active,Mavericks,34
+Joakim,Noah,USA,Joakim Noah,CHI,Florida,1985-02-25T00:00:00,1610612741,bulls,J. Noah,Chicago,joakim_noah,201149,Center,"Noah, Joakim",Florida/USA,Active,Bulls,13
+Spencer,Hawes,USA,Spencer Hawes,CLE,Washington,1988-04-28T00:00:00,1610612739,cavaliers,S. Hawes,Cleveland,spencer_hawes,201150,Center,"Hawes, Spencer",Washington/USA,Active,Cavaliers,32
+Spencer,Hawes,USA,Spencer Hawes,CLE,Washington,1988-04-28T00:00:00,1610612739,cavaliers,S. Hawes,Cleveland,spencer_hawes,201150,Center,"Hawes, Spencer",Washington/USA,Active,Cavaliers,32
+Spencer,Hawes,USA,Spencer Hawes,CLE,Washington,1988-04-28T00:00:00,1610612739,cavaliers,S. Hawes,Cleveland,spencer_hawes,201150,Center,"Hawes, Spencer",Washington/USA,Active,Cavaliers,32
+Thaddeus,Young,USA,Thaddeus Young,PHI,Georgia Tech,1988-06-21T00:00:00,1610612755,sixers,T. Young,Philadelphia,thaddeus_young,201152,Forward,"Young, Thaddeus",Georgia Tech/USA,Active,76ers,21
+Rodney,Stuckey,USA,Rodney Stuckey,DET,Eastern Washington,1986-04-21T00:00:00,1610612765,pistons,R. Stuckey,Detroit,rodney_stuckey,201155,Guard,"Stuckey, Rodney",Eastern Washington/USA,Active,Pistons,3
+Nick,Young,USA,Nick Young,LAL,USC,1985-06-01T00:00:00,1610612747,lakers,N. Young,Los Angeles,nick_young,201156,Forward-Guard,"Young, Nick",USC/USA,Active,Lakers,0
+Marco,Belinelli,Italy,Marco Belinelli,SAS,"Bologna, Italy",1986-03-25T00:00:00,1610612759,spurs,M. Belinelli,San Antonio,marco_belinelli,201158,Guard,"Belinelli, Marco",Fortitudo Bologna/Italy,Active,Spurs,3
+Jason,Smith,USA,Jason Smith,NOP,Colorado State,1986-03-02T00:00:00,1610612740,pelicans,J. Smith,New Orleans,jason_smith,201160,Center-Forward,"Smith, Jason",Colorado State/USA,Active,Pelicans,14
+Jared,Dudley,USA,Jared Dudley,LAC,Boston College,1985-07-10T00:00:00,1610612746,clippers,J. Dudley,Los Angeles,jared_dudley,201162,Forward,"Dudley, Jared",Boston College/USA,Active,Clippers,9
+Wilson,Chandler,USA,Wilson Chandler,DEN,DePaul,1987-05-10T00:00:00,1610612743,nuggets,W. Chandler,Denver,wilson_chandler,201163,Forward,"Chandler, Wilson",DePaul/USA,Active,Nuggets,21
+Aaron,Brooks,USA,Aaron Brooks,DEN,Oregon,1985-01-14T00:00:00,1610612743,nuggets,A. Brooks,Denver,aaron_brooks,201166,Guard,"Brooks, Aaron",Oregon/USA,Active,Nuggets,0
+Aaron,Brooks,USA,Aaron Brooks,DEN,Oregon,1985-01-14T00:00:00,1610612743,nuggets,A. Brooks,Denver,aaron_brooks,201166,Guard,"Brooks, Aaron",Oregon/USA,Active,Nuggets,0
+Aaron,Brooks,USA,Aaron Brooks,DEN,Oregon,1985-01-14T00:00:00,1610612743,nuggets,A. Brooks,Denver,aaron_brooks,201166,Guard,"Brooks, Aaron",Oregon/USA,Active,Nuggets,0
+Arron,Afflalo,USA,Arron Afflalo,ORL,UCLA,1985-10-15T00:00:00,1610612753,magic,A. Afflalo,Orlando,arron_afflalo,201167,Guard-Forward,"Afflalo, Arron",UCLA/USA,Active,Magic,4
+Tiago,Splitter,Brazil,Tiago Splitter,SAS,"Blumenau, Brazil",1985-01-01T00:00:00,1610612759,spurs,T. Splitter,San Antonio,tiago_splitter,201168,Center,"Splitter, Tiago",Saski Baskonia/Brazil,Active,Spurs,22
+Carl,Landry,USA,Carl Landry,SAC,Purdue,1983-09-19T00:00:00,1610612758,kings,C. Landry,Sacramento,carl_landry,201171,Forward,"Landry, Carl",Purdue/USA,Active,Kings,24
+Glen,Davis,USA,Glen Davis,LAC,Louisiana State,1986-01-01T00:00:00,1610612746,clippers,G. Davis,Los Angeles,glen_davis,201175,Forward-Center,"Davis, Glen",Louisiana State/USA,Active,Clippers,0
+Glen,Davis,USA,Glen Davis,LAC,Louisiana State,1986-01-01T00:00:00,1610612746,clippers,G. Davis,Los Angeles,glen_davis,201175,Forward-Center,"Davis, Glen",Louisiana State/USA,Active,Clippers,0
+Glen,Davis,USA,Glen Davis,LAC,Louisiana State,1986-01-01T00:00:00,1610612746,clippers,G. Davis,Los Angeles,glen_davis,201175,Forward-Center,"Davis, Glen",Louisiana State/USA,Active,Clippers,0
+Josh,McRoberts,USA,Josh McRoberts,CHA,Duke,1987-02-28T00:00:00,1610612766,bobcats,J. McRoberts,Charlotte,josh_mcroberts,201177,Forward,"McRoberts, Josh",Duke/USA,Active,Bobcats,11
+Marc,Gasol,Spain,Marc Gasol,MEM,"Barcelona, Spain",1985-01-29T00:00:00,1610612763,grizzlies,M. Gasol,Memphis,marc_gasol,201188,Center,"Gasol, Marc",FC Barcelona/Spain,Active,Grizzlies,33
+Aaron,Gray,USA,Aaron Gray,SAC,Pittsburgh,1984-12-07T00:00:00,1610612758,kings,A. Gray,Sacramento,aaron_gray,201189,Center,"Gray, Aaron",Pittsburgh/USA,Active,Kings,33
+Aaron,Gray,USA,Aaron Gray,SAC,Pittsburgh,1984-12-07T00:00:00,1610612758,kings,A. Gray,Sacramento,aaron_gray,201189,Center,"Gray, Aaron",Pittsburgh/USA,Active,Kings,33
+Aaron,Gray,USA,Aaron Gray,SAC,Pittsburgh,1984-12-07T00:00:00,1610612758,kings,A. Gray,Sacramento,aaron_gray,201189,Center,"Gray, Aaron",Pittsburgh/USA,Active,Kings,33
+Ramon,Sessions,USA,Ramon Sessions,MIL,Nevada-Reno,1986-04-11T00:00:00,1610612749,bucks,R. Sessions,Milwaukee,ramon_sessions,201196,Guard,"Sessions, Ramon",Nevada-Reno/USA,Active,Bucks,13
+Ramon,Sessions,USA,Ramon Sessions,MIL,Nevada-Reno,1986-04-11T00:00:00,1610612749,bucks,R. Sessions,Milwaukee,ramon_sessions,201196,Guard,"Sessions, Ramon",Nevada-Reno/USA,Active,Bucks,13
+Ramon,Sessions,USA,Ramon Sessions,MIL,Nevada-Reno,1986-04-11T00:00:00,1610612749,bucks,R. Sessions,Milwaukee,ramon_sessions,201196,Guard,"Sessions, Ramon",Nevada-Reno/USA,Active,Bucks,13
+Joel,Anthony,Canada,Joel Anthony,BOS,UNLV,1982-08-09T00:00:00,1610612738,celtics,J. Anthony,Boston,joel_anthony,201202,Center,"Anthony, Joel",UNLV/Canada,Active,Celtics,50
+Joel,Anthony,Canada,Joel Anthony,BOS,UNLV,1982-08-09T00:00:00,1610612738,celtics,J. Anthony,Boston,joel_anthony,201202,Center,"Anthony, Joel",UNLV/Canada,Active,Celtics,50
+Joel,Anthony,Canada,Joel Anthony,BOS,UNLV,1982-08-09T00:00:00,1610612738,celtics,J. Anthony,Boston,joel_anthony,201202,Center,"Anthony, Joel",UNLV/Canada,Active,Celtics,50
+Mustafa,Shakur,US,Mustafa Shakur,,Arizona,1984-08-18T00:00:00,0,,M. Shakur,,mustafa_shakur,201203,,"Shakur, Mustafa",Arizona/US,Inactive,,
+CJ,Watson,USA,CJ Watson,IND,Tennessee,1984-04-17T00:00:00,1610612754,pacers,C. Watson,Indiana,cj_watson,201228,Guard,"Watson, CJ",Tennessee/USA,Active,Pacers,32
+Anthony,Tolliver,USA,Anthony Tolliver,CHA,Creighton,1985-06-01T00:00:00,1610612766,bobcats,A. Tolliver,Charlotte,anthony_tolliver,201229,Forward,"Tolliver, Anthony",Creighton/USA,Active,Bobcats,43
+Michael,Beasley,USA,Michael Beasley,MIA,Kansas State,1989-01-09T00:00:00,1610612748,heat,M. Beasley,Miami,michael_beasley,201563,Forward,"Beasley, Michael",Kansas State/USA,Active,Heat,8
+O.J.,Mayo,USA,O.J. Mayo,MIL,USC,1987-11-05T00:00:00,1610612749,bucks,O. Mayo,Milwaukee,oj_mayo,201564,Guard,"Mayo, O.J.",USC/USA,Active,Bucks,00
+Derrick,Rose,USA,Derrick Rose,CHI,Memphis,1988-10-04T00:00:00,1610612741,bulls,D. Rose,Chicago,derrick_rose,201565,Guard,"Rose, Derrick",Memphis/USA,Active,Bulls,1
+Russell,Westbrook,USA,Russell Westbrook,OKC,UCLA,1988-11-12T00:00:00,1610612760,thunder,R. Westbrook,Oklahoma City,russell_westbrook,201566,Guard,"Westbrook, Russell",UCLA/USA,Active,Thunder,0
+Kevin,Love,USA,Kevin Love,MIN,UCLA,1988-09-07T00:00:00,1610612750,timberwolves,K. Love,Minnesota,kevin_love,201567,Forward-Center,"Love, Kevin",UCLA/USA,Active,Timberwolves,42
+Eric,Gordon,USA,Eric Gordon,NOP,Indiana,1988-12-25T00:00:00,1610612740,pelicans,E. Gordon,New Orleans,eric_gordon,201569,Guard,"Gordon, Eric",Indiana/USA,Active,Pelicans,10
+D.J.,Augustin,USA,D.J. Augustin,CHI,Texas,1987-11-10T00:00:00,1610612741,bulls,D. Augustin,Chicago,dj_augustin,201571,Guard,"Augustin, D.J.",Texas/USA,Active,Bulls,14
+D.J.,Augustin,USA,D.J. Augustin,CHI,Texas,1987-11-10T00:00:00,1610612741,bulls,D. Augustin,Chicago,dj_augustin,201571,Guard,"Augustin, D.J.",Texas/USA,Active,Bulls,14
+D.J.,Augustin,USA,D.J. Augustin,CHI,Texas,1987-11-10T00:00:00,1610612741,bulls,D. Augustin,Chicago,dj_augustin,201571,Guard,"Augustin, D.J.",Texas/USA,Active,Bulls,14
+Brook,Lopez,USA,Brook Lopez,BKN,Stanford,1988-04-01T00:00:00,1610612751,nets,B. Lopez,Brooklyn,brook_lopez,201572,Center,"Lopez, Brook",Stanford/USA,Active,Nets,11
+Jerryd,Bayless,USA,Jerryd Bayless,BOS,Arizona,1988-08-20T00:00:00,1610612738,celtics,J. Bayless,Boston,jerryd_bayless,201573,Guard,"Bayless, Jerryd",Arizona/USA,Active,Celtics,11
+Jerryd,Bayless,USA,Jerryd Bayless,BOS,Arizona,1988-08-20T00:00:00,1610612738,celtics,J. Bayless,Boston,jerryd_bayless,201573,Guard,"Bayless, Jerryd",Arizona/USA,Active,Celtics,11
+Jerryd,Bayless,USA,Jerryd Bayless,BOS,Arizona,1988-08-20T00:00:00,1610612738,celtics,J. Bayless,Boston,jerryd_bayless,201573,Guard,"Bayless, Jerryd",Arizona/USA,Active,Celtics,11
+Jason,Thompson,USA,Jason Thompson,SAC,Rider University,1986-07-21T00:00:00,1610612758,kings,J. Thompson,Sacramento,jason_thompson,201574,Forward-Center,"Thompson, Jason",Rider/USA,Active,Kings,34
+Brandon,Rush,USA,Brandon Rush,UTA,Kansas,1985-07-07T00:00:00,1610612762,jazz,B. Rush,Utah,brandon_rush,201575,Guard,"Rush, Brandon",Kansas/USA,Active,Jazz,25
+Anthony,Randolph,USA,Anthony Randolph,DEN,Louisiana State,1989-07-15T00:00:00,1610612743,nuggets,A. Randolph,Denver,anthony_randolph,201576,Forward,"Randolph, Anthony",Louisiana State/USA,Active,Nuggets,15
+Robin,Lopez,USA,Robin Lopez,POR,Stanford,1988-04-01T00:00:00,1610612757,blazers,R. Lopez,Portland,robin_lopez,201577,Center,"Lopez, Robin",Stanford/USA,Active,Trail Blazers,42
+Marreese,Speights,USA,Marreese Speights,GSW,Florida,1987-08-04T00:00:00,1610612744,warriors,M. Speights,Golden State,marreese_speights,201578,Forward-Center,"Speights, Marreese",Florida/USA,Active,Warriors,5
+Roy,Hibbert,USA,Roy Hibbert,IND,Georgetown,1986-12-11T00:00:00,1610612754,pacers,R. Hibbert,Indiana,roy_hibbert,201579,Center,"Hibbert, Roy",Georgetown/USA,Active,Pacers,55
+JaVale,McGee,USA,JaVale McGee,DEN,Nevada-Reno,1988-01-19T00:00:00,1610612743,nuggets,J. McGee,Denver,javale_mcgee,201580,Center,"McGee, JaVale",Nevada-Reno/USA,Active,Nuggets,34
+JJ,Hickson,USA,JJ Hickson,DEN,North Carolina State,1988-09-04T00:00:00,1610612743,nuggets,J. Hickson,Denver,jj_hickson,201581,Center-Forward,"Hickson, JJ",North Carolina State/USA,Active,Nuggets,7
+Alexis,Ajinca,USA,Alexis Ajinca,NOP,"Saint Etienne, France",1988-05-06T00:00:00,1610612740,pelicans,A. Ajinca,New Orleans,alexis_ajinca,201582,Center,"Ajinca, Alexis","Saint Etienne, France/USA",Active,Pelicans,42
+Ryan,Anderson,USA,Ryan Anderson,NOP,California,1988-05-06T00:00:00,1610612740,pelicans,R. Anderson,New Orleans,ryan_j_anderson,201583,Forward,"Anderson, Ryan",California/USA,Active,Pelicans,33
+Courtney,Lee,USA,Courtney Lee,MEM,Western Kentucky,1985-10-03T00:00:00,1610612763,grizzlies,C. Lee,Memphis,courtney_lee,201584,Guard,"Lee, Courtney",Western Kentucky/USA,Active,Grizzlies,5
+Courtney,Lee,USA,Courtney Lee,MEM,Western Kentucky,1985-10-03T00:00:00,1610612763,grizzlies,C. Lee,Memphis,courtney_lee,201584,Guard,"Lee, Courtney",Western Kentucky/USA,Active,Grizzlies,5
+Courtney,Lee,USA,Courtney Lee,MEM,Western Kentucky,1985-10-03T00:00:00,1610612763,grizzlies,C. Lee,Memphis,courtney_lee,201584,Guard,"Lee, Courtney",Western Kentucky/USA,Active,Grizzlies,5
+Kosta,Koufos,USA,Kosta Koufos,MEM,Ohio State,1989-02-24T00:00:00,1610612763,grizzlies,K. Koufos,Memphis,kosta_koufos,201585,Center,"Koufos, Kosta",Ohio State/USA,Active,Grizzlies,41
+Serge,Ibaka,Congo,Serge Ibaka,OKC,"Brazzaville, Rep. of Congo",1989-09-18T00:00:00,1610612760,thunder,S. Ibaka,Oklahoma City,serge_ibaka,201586,Forward-Center,"Ibaka, Serge",Ricoh Manresa/Congo,Active,Thunder,9
+Nicolas,Batum,France,Nicolas Batum,POR,"Lisieux, France",1988-12-14T00:00:00,1610612757,blazers,N. Batum,Portland,nicolas_batum,201587,Forward,"Batum, Nicolas",Le Mans/France,Active,Trail Blazers,88
+George,Hill,USA,George Hill,IND,IUPUI,1986-05-04T00:00:00,1610612754,pacers,G. Hill,Indiana,george_hill,201588,Guard,"Hill, George",IUPUI/USA,Active,Pacers,3
+Darrell,Arthur,USA,Darrell Arthur,DEN,Kansas,1988-03-25T00:00:00,1610612743,nuggets,D. Arthur,Denver,darrell_arthur,201589,Forward,"Arthur, Darrell",Kansas/USA,Active,Nuggets,00
+DJ,White,USA,DJ White,CHA,Indiana,1986-08-31T00:00:00,1610612766,bobcats,D. White,Charlotte,dj_white,201591,Forward,"White, DJ",Indiana/USA,Active,Bobcats,8
+Nikola,Pekovic,Montenegro,Nikola Pekovic,MIN,Montenegro,1986-01-03T00:00:00,1610612750,timberwolves,N. Pekovic,Minnesota,nikola_pekovic,201593,Center,"Pekovic, Nikola",Panathinaikos/Montenegro,Active,Timberwolves,14
+Mario,Chalmers,USA,Mario Chalmers,MIA,Kansas,1986-05-19T00:00:00,1610612748,heat,M. Chalmers,Miami,mario_chalmers,201596,Guard,"Chalmers, Mario",Kansas/USA,Active,Heat,15
+DeAndre,Jordan,USA,DeAndre Jordan,LAC,Texas A&M,1988-07-21T00:00:00,1610612746,clippers,D. Jordan,Los Angeles,deandre_jordan,201599,Center,"Jordan, DeAndre",Texas A&M/USA,Active,Clippers,6
+Omer,Asik,Turkey,Omer Asik,HOU,Turkey,1986-07-04T00:00:00,1610612745,rockets,O. Asik,Houston,omer_asik,201600,Center,"Asik, Omer",Fenerbahce S.K./Turkey,Active,Rockets,3
+Luc,Mbah a Moute,Cameroon,Luc Mbah a Moute,MIN,UCLA,1986-09-09T00:00:00,1610612750,timberwolves,L. Mbah a Moute,Minnesota,luc_mbah_a_moute,201601,Forward,"Mbah a Moute, Luc",UCLA/Cameroon,Active,Timberwolves,12
+Luc,Mbah a Moute,Cameroon,Luc Mbah a Moute,MIN,UCLA,1986-09-09T00:00:00,1610612750,timberwolves,L. Mbah a Moute,Minnesota,luc_mbah_a_moute,201601,Forward,"Mbah a Moute, Luc",UCLA/Cameroon,Active,Timberwolves,12
+Luc,Mbah a Moute,Cameroon,Luc Mbah a Moute,MIN,UCLA,1986-09-09T00:00:00,1610612750,timberwolves,L. Mbah a Moute,Minnesota,luc_mbah_a_moute,201601,Forward,"Mbah a Moute, Luc",UCLA/Cameroon,Active,Timberwolves,12
+Chris,Douglas-Roberts,USA,Chris Douglas-Roberts,CHA,Memphis,1987-01-08T00:00:00,1610612766,bobcats,C. Douglas-Roberts,Charlotte,chris_douglas-roberts,201604,Guard,"Douglas-Roberts, Chris",Memphis/USA,Active,Bobcats,55
+Goran,Dragic,Slovenia,Goran Dragic,PHX,"Ljubljana, Slovenia",1986-05-06T00:00:00,1610612756,suns,G. Dragic,Phoenix,goran_dragic,201609,Guard,"Dragic, Goran",Union Olimpija/Slovenia/Slovenia,Active,Suns,1
+Anthony,Morrow,USA,Anthony Morrow,NOP,Georgia Tech,1985-09-27T00:00:00,1610612740,pelicans,A. Morrow,New Orleans,anthony_morrow,201627,Guard,"Morrow, Anthony",Georgia Tech/USA,Active,Pelicans,3
+Othyus,Jeffers,USA,Othyus Jeffers,MIN,Robert Morris - Chicago,1985-08-05T00:00:00,1610612750,timberwolves,O. Jeffers,Minnesota,othyus_jeffers,201785,Guard-Forward,"Jeffers, Othyus",Robert Morris (Ill.)/USA,Active,Timberwolves,0
+Othyus,Jeffers,USA,Othyus Jeffers,MIN,Robert Morris - Chicago,1985-08-05T00:00:00,1610612750,timberwolves,O. Jeffers,Minnesota,othyus_jeffers,201785,Guard-Forward,"Jeffers, Othyus",Robert Morris (Ill.)/USA,Active,Timberwolves,0
+Othyus,Jeffers,USA,Othyus Jeffers,MIN,Robert Morris - Chicago,1985-08-05T00:00:00,1610612750,timberwolves,O. Jeffers,Minnesota,othyus_jeffers,201785,Guard-Forward,"Jeffers, Othyus",Robert Morris (Ill.)/USA,Active,Timberwolves,0
+Cartier,Martin,USA,Cartier Martin,ATL,Kansas State,1984-11-20T00:00:00,1610612737,hawks,C. Martin,Atlanta,cartier_martin,201858,Forward,"Martin, Cartier",Kansas State/USA,Active,Hawks,20
+Cartier,Martin,USA,Cartier Martin,ATL,Kansas State,1984-11-20T00:00:00,1610612737,hawks,C. Martin,Atlanta,cartier_martin,201858,Forward,"Martin, Cartier",Kansas State/USA,Active,Hawks,20
+Cartier,Martin,USA,Cartier Martin,ATL,Kansas State,1984-11-20T00:00:00,1610612737,hawks,C. Martin,Atlanta,cartier_martin,201858,Forward,"Martin, Cartier",Kansas State/USA,Active,Hawks,20
+Greg,Stiemsma,USA,Greg Stiemsma,,Wisconsin,1985-09-26T00:00:00,0,,G. Stiemsma,,greg_stiemsma,201880,,"Stiemsma, Greg",Wisconsin/USA,Inactive,,
+Blake,Griffin,USA,Blake Griffin,LAC,Oklahoma,1989-03-16T00:00:00,1610612746,clippers,B. Griffin,Los Angeles,blake_griffin,201933,Forward,"Griffin, Blake",Oklahoma/USA,Active,Clippers,32
+Hasheem,Thabeet,Tanzania,Hasheem Thabeet,OKC,Connecticut,1987-02-16T00:00:00,1610612760,thunder,H. Thabeet,Oklahoma City,hasheem_thabeet,201934,Center,"Thabeet, Hasheem",Uconn/Tanzania,Active,Thunder,34
+James,Harden,USA,James Harden,HOU,Arizona State,1989-08-26T00:00:00,1610612745,rockets,J. Harden,Houston,james_harden,201935,Guard,"Harden, James",Arizona State/USA,Active,Rockets,13
+Tyreke,Evans,USA,Tyreke Evans,NOP,Memphis,1989-09-19T00:00:00,1610612740,pelicans,T. Evans,New Orleans,tyreke_evans,201936,Forward-Guard,"Evans, Tyreke",Memphis/USA,Active,Pelicans,1
+Ricky,Rubio,Spain,Ricky Rubio,MIN,"El Masnou, Spain",1990-10-21T00:00:00,1610612750,timberwolves,R. Rubio,Minnesota,ricky_rubio,201937,Guard,"Rubio, Ricky",FC Barcelona/Spain,Active,Timberwolves,9
+Stephen,Curry,USA,Stephen Curry,GSW,Davidson,1988-03-14T00:00:00,1610612744,warriors,S. Curry,Golden State,stephen_curry,201939,Guard,"Curry, Stephen",Davidson/USA,Active,Warriors,30
+Jordan,Hill,USA,Jordan Hill,LAL,Arizona,1987-07-27T00:00:00,1610612747,lakers,J. Hill,Los Angeles,jordan_hill,201941,Forward-Center,"Hill, Jordan",Arizona/USA,Active,Lakers,27
+DeMar,DeRozan,USA,DeMar DeRozan,TOR,USC,1989-08-07T00:00:00,1610612761,raptors,D. DeRozan,Toronto,demar_derozan,201942,Guard,"DeRozan, DeMar",USC/USA,Active,Raptors,10
+Brandon,Jennings,USA,Brandon Jennings,DET,Oak Hill Academy (VA),1989-09-23T00:00:00,1610612765,pistons,B. Jennings,Detroit,brandon_jennings,201943,Guard,"Jennings, Brandon","Oak Hill Academy (Mouth of Wilson, VA)/USA",Active,Pistons,7
+Gerald,Henderson,USA,Gerald Henderson,CHA,Duke,1987-12-09T00:00:00,1610612766,bobcats,G. Henderson,Charlotte,gerald_henderson,201945,Guard,"Henderson, Gerald",Duke/USA,Active,Bobcats,9
+Tyler,Hansbrough,USA,Tyler Hansbrough,TOR,North Carolina,1985-11-03T00:00:00,1610612761,raptors,T. Hansbrough,Toronto,tyler_hansbrough,201946,Forward-Center,"Hansbrough, Tyler",North Carolina/USA,Active,Raptors,50
+Earl,Clark,USA,Earl Clark,,Louisville,1988-01-17T00:00:00,0,,E. Clark,,earl_clark,201947,,"Clark, Earl",Louisville/USA,Inactive,,
+Earl,Clark,USA,Earl Clark,,Louisville,1988-01-17T00:00:00,0,,E. Clark,,earl_clark,201947,,"Clark, Earl",Louisville/USA,Inactive,,
+Earl,Clark,USA,Earl Clark,,Louisville,1988-01-17T00:00:00,0,,E. Clark,,earl_clark,201947,,"Clark, Earl",Louisville/USA,Inactive,,
+Austin,Daye,USA,Austin Daye,SAS,Gonzaga,1988-06-05T00:00:00,1610612759,spurs,A. Daye,San Antonio,austin_daye,201948,Forward,"Daye, Austin",Gonzaga/USA,Active,Spurs,23
+Austin,Daye,USA,Austin Daye,SAS,Gonzaga,1988-06-05T00:00:00,1610612759,spurs,A. Daye,San Antonio,austin_daye,201948,Forward,"Daye, Austin",Gonzaga/USA,Active,Spurs,23
+Austin,Daye,USA,Austin Daye,SAS,Gonzaga,1988-06-05T00:00:00,1610612759,spurs,A. Daye,San Antonio,austin_daye,201948,Forward,"Daye, Austin",Gonzaga/USA,Active,Spurs,23
+James,Johnson,USA,James Johnson,MEM,Wake Forest,1987-02-20T00:00:00,1610612763,grizzlies,J. Johnson,Memphis,james_johnson,201949,Forward,"Johnson, James",Wake Forest/USA,Active,Grizzlies,3
+Jrue,Holiday,USA,Jrue Holiday,NOP,UCLA,1990-06-12T00:00:00,1610612740,pelicans,J. Holiday,New Orleans,jrue_holiday,201950,Guard,"Holiday, Jrue",UCLA/USA,Active,Pelicans,11
+Ty,Lawson,USA,Ty Lawson,DEN,North Carolina,1987-11-03T00:00:00,1610612743,nuggets,T. Lawson,Denver,ty_lawson,201951,Guard,"Lawson, Ty",North Carolina/USA,Active,Nuggets,3
+Jeff,Teague,USA,Jeff Teague,ATL,Wake Forest,1988-06-10T00:00:00,1610612737,hawks,J. Teague,Atlanta,jeff_teague,201952,Guard,"Teague, Jeff",Wake Forest/USA,Active,Hawks,0
+Eric,Maynor,USA,Eric Maynor,,Va Commonwealth,1987-06-11T00:00:00,0,,E. Maynor,,eric_maynor,201953,,"Maynor, Eric",Virginia Commonwealth/USA,Inactive,,
+Eric,Maynor,USA,Eric Maynor,,Va Commonwealth,1987-06-11T00:00:00,0,,E. Maynor,,eric_maynor,201953,,"Maynor, Eric",Virginia Commonwealth/USA,Inactive,,
+Eric,Maynor,USA,Eric Maynor,,Va Commonwealth,1987-06-11T00:00:00,0,,E. Maynor,,eric_maynor,201953,,"Maynor, Eric",Virginia Commonwealth/USA,Inactive,,
+Darren,Collison,USA,Darren Collison,LAC,UCLA,1987-08-23T00:00:00,1610612746,clippers,D. Collison,Los Angeles,darren_collison,201954,Guard,"Collison, Darren",UCLA/USA,Active,Clippers,2
+Omri,Casspi,Israel,Omri Casspi,HOU,"Yavne, Israel",1988-06-22T00:00:00,1610612745,rockets,O. Casspi,Houston,omri_casspi,201956,Forward,"Casspi, Omri",Hapoel Galil Elyon/Israel,Active,Rockets,18
+Byron,Mullens,USA,Byron Mullens,PHI,Ohio State,1989-02-14T00:00:00,1610612755,sixers,B. Mullens,Philadelphia,byron_mullens,201957,Center,"Mullens, Byron",Ohio State/USA,Active,76ers,30
+Byron,Mullens,USA,Byron Mullens,PHI,Ohio State,1989-02-14T00:00:00,1610612755,sixers,B. Mullens,Philadelphia,byron_mullens,201957,Center,"Mullens, Byron",Ohio State/USA,Active,76ers,30
+Byron,Mullens,USA,Byron Mullens,PHI,Ohio State,1989-02-14T00:00:00,1610612755,sixers,B. Mullens,Philadelphia,byron_mullens,201957,Center,"Mullens, Byron",Ohio State/USA,Active,76ers,30
+Taj,Gibson,USA,Taj Gibson,CHI,USC,1985-06-24T00:00:00,1610612741,bulls,T. Gibson,Chicago,taj_gibson,201959,Forward-Center,"Gibson, Taj",USC/USA,Active,Bulls,22
+DeMarre,Carroll,USA,DeMarre Carroll,ATL,Missouri,1986-07-27T00:00:00,1610612737,hawks,D. Carroll,Atlanta,demarre_carroll,201960,Forward,"Carroll, DeMarre",Missouri/USA,Active,Hawks,5
+Wayne,Ellington,USA,Wayne Ellington,DAL,North Carolina,1987-11-29T00:00:00,1610612742,mavericks,W. Ellington,Dallas,wayne_ellington,201961,Guard,"Ellington, Wayne",North Carolina/USA,Active,Mavericks,21
+Toney,Douglas,USA,Toney Douglas,MIA,Florida State,1986-03-16T00:00:00,1610612748,heat,T. Douglas,Miami,toney_douglas,201962,Guard,"Douglas, Toney",Florida State/USA,Active,Heat,0
+Toney,Douglas,USA,Toney Douglas,MIA,Florida State,1986-03-16T00:00:00,1610612748,heat,T. Douglas,Miami,toney_douglas,201962,Guard,"Douglas, Toney",Florida State/USA,Active,Heat,0
+Toney,Douglas,USA,Toney Douglas,MIA,Florida State,1986-03-16T00:00:00,1610612748,heat,T. Douglas,Miami,toney_douglas,201962,Guard,"Douglas, Toney",Florida State/USA,Active,Heat,0
+Victor,Claver,Spain,Victor Claver,POR,"Valencia, Spain",1988-08-30T00:00:00,1610612757,blazers,V. Claver,Portland,victor_claver,201964,Forward,"Claver, Victor","Valencia, Spain",Active,Trail Blazers,18
+Jeff,Ayres,USA,Jeff Ayres,SAS,Arizona State,1987-04-29T00:00:00,1610612759,spurs,J. Ayres,San Antonio,jeff_ayres,201965,Center-Forward,"Ayres, Jeff",Arizona State/USA,Active,Spurs,11
+Dante,Cunningham,USA,Dante Cunningham,MIN,Villanova,1987-04-22T00:00:00,1610612750,timberwolves,D. Cunningham,Minnesota,dante_cunningham,201967,Forward,"Cunningham, Dante",Villanova/USA,Active,Timberwolves,33
+DeJuan,Blair,USA,DeJuan Blair,DAL,Pittsburgh,1989-04-22T00:00:00,1610612742,mavericks,D. Blair,Dallas,dejuan_blair,201971,Center-Forward,"Blair, DeJuan",Pittsburgh/USA,Active,Mavericks,45
+Jonas,Jerebko,Sweden,Jonas Jerebko,DET,"Kinna, Sweden",1987-03-02T00:00:00,1610612765,pistons,J. Jerebko,Detroit,jonas_jerebko,201973,Forward,"Jerebko, Jonas",Angelico Biella/Sweden,Active,Pistons,33
+Jodie,Meeks,USA,Jodie Meeks,LAL,Kentucky,1987-08-21T00:00:00,1610612747,lakers,J. Meeks,Los Angeles,jodie_meeks,201975,Guard,"Meeks, Jodie",Kentucky/USA,Active,Lakers,20
+Patrick,Beverley,USA,Patrick Beverley,HOU,Arkansas,1988-07-12T00:00:00,1610612745,rockets,P. Beverley,Houston,patrick_beverley,201976,Guard,"Beverley, Patrick",Arkansas/USA,Active,Rockets,2
+Marcus,Thornton,USA,Marcus Thornton,BKN,Louisiana State,1987-06-05T00:00:00,1610612751,nets,M. Thornton,Brooklyn,marcus_thornton,201977,Guard,"Thornton, Marcus",Louisiana State/USA,Active,Nets,10
+Marcus,Thornton,USA,Marcus Thornton,BKN,Louisiana State,1987-06-05T00:00:00,1610612751,nets,M. Thornton,Brooklyn,marcus_thornton,201977,Guard,"Thornton, Marcus",Louisiana State/USA,Active,Nets,10
+Marcus,Thornton,USA,Marcus Thornton,BKN,Louisiana State,1987-06-05T00:00:00,1610612751,nets,M. Thornton,Brooklyn,marcus_thornton,201977,Guard,"Thornton, Marcus",Louisiana State/USA,Active,Nets,10
+Chase,Budinger,USA,Chase Budinger,MIN,Arizona,1988-05-22T00:00:00,1610612750,timberwolves,C. Budinger,Minnesota,chase_budinger,201978,Forward,"Budinger, Chase",Arizona/USA,Active,Timberwolves,10
+Nick,Calathes,USA,Nick Calathes,MEM,Florida,1989-02-07T00:00:00,1610612763,grizzlies,N. Calathes,Memphis,nick_calathes,201979,Guard,"Calathes, Nick",Florida,Active,Grizzlies,12
+Danny,Green,USA,Danny Green,SAS,North Carolina,1987-06-22T00:00:00,1610612759,spurs,D. Green,San Antonio,daniel_green,201980,Guard-Forward,"Green, Danny",North Carolina/USA,Active,Spurs,4
+A.J.,Price,USA,A.J. Price,,Connecticut,1986-10-07T00:00:00,0,,A. Price,,aj_price,201985,,"Price, A.J.",Connecticut/USA,Inactive,,
+Nando,De Colo,France,Nando De Colo,TOR,"Saint Catherine, France",1987-06-23T00:00:00,1610612761,raptors,N. De Colo,Toronto,nando_de_colo,201986,Guard,"De Colo, Nando","Saint Catherine, France",Active,Raptors,3
+Nando,De Colo,France,Nando De Colo,TOR,"Saint Catherine, France",1987-06-23T00:00:00,1610612761,raptors,N. De Colo,Toronto,nando_de_colo,201986,Guard,"De Colo, Nando","Saint Catherine, France",Active,Raptors,3
+Nando,De Colo,France,Nando De Colo,TOR,"Saint Catherine, France",1987-06-23T00:00:00,1610612761,raptors,N. De Colo,Toronto,nando_de_colo,201986,Guard,"De Colo, Nando","Saint Catherine, France",Active,Raptors,3
+Patty,Mills,Australia,Patty Mills,SAS,St. Mary's (CA),1988-08-11T00:00:00,1610612759,spurs,P. Mills,San Antonio,patrick_mills,201988,Guard,"Mills, Patty",St. Mary's (CA)/Australia,Active,Spurs,8
+Garrett,Temple,USA,Garrett Temple,WAS,Louisiana State,1986-05-08T00:00:00,1610612764,wizards,G. Temple,Washington,garrett_temple,202066,Guard,"Temple, Garrett",Louisiana State/USA,Active,Wizards,17
+Wesley,Matthews,USA,Wesley Matthews,POR,Marquette,1986-10-14T00:00:00,1610612757,blazers,W. Matthews,Portland,wesley_matthews,202083,Guard,"Matthews, Wesley",Marquette/USA,Active,Trail Blazers,2
+Alonzo,Gee,USA,Alonzo Gee,CLE,Alabama,1987-05-29T00:00:00,1610612739,cavaliers,A. Gee,Cleveland,alonzo_gee,202087,Forward,"Gee, Alonzo",Alabama/USA,Active,Cavaliers,33
+Dionte,Christmas,USA,Dionte Christmas,PHX,Temple,1986-09-15T00:00:00,1610612756,suns,D. Christmas,Phoenix,dionte_christmas,202091,Guard,"Christmas, Dionte",Temple/USA,Active,Suns,25
+Reggie,Williams,USA,Reggie Williams,,Virginia Military,1986-09-14T00:00:00,0,,R. Williams,,reggie_williams,202130,,"Williams, Reggie",Virginia Military Inst./USA,Inactive,,
+Shane,Edwards,,Shane Edwards,,Arkansas-Little Rock,1987-05-31T00:00:00,0,,S. Edwards,,shane_edwards,202197,,"Edwards, Shane",Arkansas-Little Rock/US,Inactive,,
+John,Wall,USA,John Wall,WAS,Kentucky,1990-09-06T00:00:00,1610612764,wizards,J. Wall,Washington,john_wall,202322,Guard,"Wall, John",Kentucky/USA,Active,Wizards,2
+Evan,Turner,USA,Evan Turner,IND,Ohio State,1988-10-27T00:00:00,1610612754,pacers,E. Turner,Indiana,evan_turner,202323,Forward-Guard,"Turner, Evan",Ohio State/USA,Active,Pacers,12
+Evan,Turner,USA,Evan Turner,IND,Ohio State,1988-10-27T00:00:00,1610612754,pacers,E. Turner,Indiana,evan_turner,202323,Forward-Guard,"Turner, Evan",Ohio State/USA,Active,Pacers,12
+Evan,Turner,USA,Evan Turner,IND,Ohio State,1988-10-27T00:00:00,1610612754,pacers,E. Turner,Indiana,evan_turner,202323,Forward-Guard,"Turner, Evan",Ohio State/USA,Active,Pacers,12
+Derrick,Favors,USA,Derrick Favors,UTA,Georgia Tech,1991-07-15T00:00:00,1610612762,jazz,D. Favors,Utah,derrick_favors,202324,Center-Forward,"Favors, Derrick",Georgia Tech/USA,Active,Jazz,15
+Wesley,Johnson,USA,Wesley Johnson,LAL,Syracuse,1987-07-11T00:00:00,1610612747,lakers,W. Johnson,Los Angeles,wesley_johnson,202325,Forward,"Johnson, Wesley",Syracuse/USA,Active,Lakers,11
+DeMarcus,Cousins,USA,DeMarcus Cousins,SAC,Kentucky,1990-08-13T00:00:00,1610612758,kings,D. Cousins,Sacramento,demarcus_cousins,202326,Center,"Cousins, DeMarcus",Kentucky/USA,Active,Kings,15
+Ekpe,Udoh,USA,Ekpe Udoh,MIL,Baylor,1987-05-20T00:00:00,1610612749,bucks,E. Udoh,Milwaukee,ekpe_udoh,202327,Forward-Center,"Udoh, Ekpe",Baylor/USA,Active,Bucks,5
+Greg,Monroe,USA,Greg Monroe,DET,Georgetown,1990-06-04T00:00:00,1610612765,pistons,G. Monroe,Detroit,greg_monroe,202328,Forward-Center,"Monroe, Greg",Georgetown/USA,Active,Pistons,10
+Al-Farouq,Aminu,USA,Al-Farouq Aminu,NOP,Wake Forest,1990-09-21T00:00:00,1610612740,pelicans,A. Aminu,New Orleans,al-farouq_aminu,202329,Forward,"Aminu, Al-Farouq",Wake Forest/USA,Active,Pelicans,0
+Gordon,Hayward,USA,Gordon Hayward,UTA,Butler,1990-03-23T00:00:00,1610612762,jazz,G. Hayward,Utah,gordon_hayward,202330,Guard-Forward,"Hayward, Gordon",Butler/USA,Active,Jazz,20
+Paul,George,USA,Paul George,IND,Fresno State,1990-05-02T00:00:00,1610612754,pacers,P. George,Indiana,paul_george,202331,Forward-Guard,"George, Paul",Fresno State/USA,Active,Pacers,24
+Cole,Aldrich,USA,Cole Aldrich,NYK,Kansas,1988-10-31T00:00:00,1610612752,knicks,C. Aldrich,New York,cole_aldrich,202332,Center,"Aldrich, Cole",Kansas/USA,Active,Knicks,45
+Xavier,Henry,USA,Xavier Henry,LAL,Kansas,1991-03-15T00:00:00,1610612747,lakers,X. Henry,Los Angeles,xavier_henry,202333,Forward-Guard,"Henry, Xavier",Kansas/USA,Active,Lakers,7
+Ed,Davis,USA,Ed Davis,MEM,North Carolina,1989-06-05T00:00:00,1610612763,grizzlies,E. Davis,Memphis,ed_davis,202334,Forward,"Davis, Ed",North Carolina/USA,Active,Grizzlies,32
+Patrick,Patterson,USA,Patrick Patterson,TOR,Kentucky,1989-03-14T00:00:00,1610612761,raptors,P. Patterson,Toronto,patrick_patterson,202335,Forward,"Patterson, Patrick",Kentucky/USA,Active,Raptors,54
+Patrick,Patterson,USA,Patrick Patterson,TOR,Kentucky,1989-03-14T00:00:00,1610612761,raptors,P. Patterson,Toronto,patrick_patterson,202335,Forward,"Patterson, Patrick",Kentucky/USA,Active,Raptors,54
+Patrick,Patterson,USA,Patrick Patterson,TOR,Kentucky,1989-03-14T00:00:00,1610612761,raptors,P. Patterson,Toronto,patrick_patterson,202335,Forward,"Patterson, Patrick",Kentucky/USA,Active,Raptors,54
+Larry,Sanders,USA,Larry Sanders,MIL,Va Commonwealth,1988-11-21T00:00:00,1610612749,bucks,L. Sanders,Milwaukee,larry_sanders,202336,Center,"Sanders, Larry",Virginia Commonwealth/USA,Active,Bucks,8
+Luke,Babbitt,USA,Luke Babbitt,NOP,Nevada-Reno,1989-06-20T00:00:00,1610612740,pelicans,L. Babbitt,New Orleans,luke_babbitt,202337,Forward,"Babbitt, Luke",Nevada-Reno/USA,Active,Pelicans,8
+Kevin,Seraphin,France,Kevin Seraphin,WAS,Le Moyne College,1989-12-07T00:00:00,1610612764,wizards,K. Seraphin,Washington,kevin_seraphin,202338,Center,"Seraphin, Kevin",Cholet Basket/France,Active,Wizards,13
+Eric,Bledsoe,USA,Eric Bledsoe,PHX,Kentucky,1989-12-09T00:00:00,1610612756,suns,E. Bledsoe,Phoenix,eric_bledsoe,202339,Guard,"Bledsoe, Eric",Kentucky/USA,Active,Suns,2
+Avery,Bradley,USA,Avery Bradley,BOS,Texas,1990-11-26T00:00:00,1610612738,celtics,A. Bradley,Boston,avery_bradley,202340,Guard,"Bradley, Avery",Texas/USA,Active,Celtics,0
+James,Anderson,USA,James Anderson,PHI,Oklahoma State,1989-03-25T00:00:00,1610612755,sixers,J. Anderson,Philadelphia,james_anderson,202341,Guard-Forward,"Anderson, James",Oklahoma State/USA,Active,76ers,9
+Elliot,Williams,USA,Elliot Williams,PHI,Memphis,1989-06-20T00:00:00,1610612755,sixers,E. Williams,Philadelphia,elliot_williams,202343,Guard,"Williams, Elliot",Memphis/USA,Active,76ers,25
+Trevor,Booker,USA,Trevor Booker,WAS,Clemson,1987-11-25T00:00:00,1610612764,wizards,T. Booker,Washington,trevor_booker,202344,Forward,"Booker, Trevor",Clemson/USA,Active,Wizards,35
+Damion,James,USA,Damion James,SAS,Texas,1987-10-07T00:00:00,1610612759,spurs,D. James,San Antonio,damion_james,202345,Forward,"James, Damion",Texas/USA,Active,Spurs,7
+Quincy,Pondexter,USA,Quincy Pondexter,MEM,Washington,1988-03-10T00:00:00,1610612763,grizzlies,Q. Pondexter,Memphis,quincy_pondexter,202347,Forward,"Pondexter, Quincy",Washington/USA,Active,Grizzlies,20
+Jordan,Crawford,USA,Jordan Crawford,GSW,Xavier,1988-10-23T00:00:00,1610612744,warriors,J. Crawford,Golden State,jordan_crawford,202348,Guard,"Crawford, Jordan",Xavier (Ohio)/USA,Active,Warriors,55
+Jordan,Crawford,USA,Jordan Crawford,GSW,Xavier,1988-10-23T00:00:00,1610612744,warriors,J. Crawford,Golden State,jordan_crawford,202348,Guard,"Crawford, Jordan",Xavier (Ohio)/USA,Active,Warriors,55
+Jordan,Crawford,USA,Jordan Crawford,GSW,Xavier,1988-10-23T00:00:00,1610612744,warriors,J. Crawford,Golden State,jordan_crawford,202348,Guard,"Crawford, Jordan",Xavier (Ohio)/USA,Active,Warriors,55
+Greivis,Vasquez,Venezuela,Greivis Vasquez,TOR,Maryland,1987-01-16T00:00:00,1610612761,raptors,G. Vasquez,Toronto,greivis_vasquez,202349,Guard,"Vasquez, Greivis",Maryland/Venezuela,Active,Raptors,21
+Greivis,Vasquez,Venezuela,Greivis Vasquez,TOR,Maryland,1987-01-16T00:00:00,1610612761,raptors,G. Vasquez,Toronto,greivis_vasquez,202349,Guard,"Vasquez, Greivis",Maryland/Venezuela,Active,Raptors,21
+Greivis,Vasquez,Venezuela,Greivis Vasquez,TOR,Maryland,1987-01-16T00:00:00,1610612761,raptors,G. Vasquez,Toronto,greivis_vasquez,202349,Guard,"Vasquez, Greivis",Maryland/Venezuela,Active,Raptors,21
+Daniel,Orton,USA,Daniel Orton,,Kentucky,1990-08-06T00:00:00,0,,D. Orton,,daniel_orton,202350,,"Orton, Daniel",Kentucky/USA,Inactive,,
+Dexter,Pittman,USA,Dexter Pittman,,Texas,1988-03-02T00:00:00,0,,D. Pittman,,dexter_pittman,202354,,"Pittman, Dexter",Texas/USA,Inactive,,
+Landry,Fields,USA,Landry Fields,TOR,Stanford,1988-06-27T00:00:00,1610612761,raptors,L. Fields,Toronto,landry_fields,202361,Forward,"Fields, Landry",Stanford/USA,Active,Raptors,2
+Lance,Stephenson,USA,Lance Stephenson,IND,Cincinnati,1990-09-05T00:00:00,1610612754,pacers,L. Stephenson,Indiana,lance_stephenson,202362,Guard,"Stephenson, Lance",Cincinnati/USA,Active,Pacers,1
+Jarvis,Varnado,USA,Jarvis Varnado,PHI,Mississippi State,1988-03-01T00:00:00,1610612755,sixers,J. Varnado,Philadelphia,jarvis_varnado,202363,Forward-Center,"Varnado, Jarvis",Mississippi State/USA,Active,76ers,40
+Jarvis,Varnado,USA,Jarvis Varnado,PHI,Mississippi State,1988-03-01T00:00:00,1610612755,sixers,J. Varnado,Philadelphia,jarvis_varnado,202363,Forward-Center,"Varnado, Jarvis",Mississippi State/USA,Active,76ers,40
+Jarvis,Varnado,USA,Jarvis Varnado,PHI,Mississippi State,1988-03-01T00:00:00,1610612755,sixers,J. Varnado,Philadelphia,jarvis_varnado,202363,Forward-Center,"Varnado, Jarvis",Mississippi State/USA,Active,76ers,40
+Jeremy,Evans,USA,Jeremy Evans,UTA,Western Kentucky,1987-10-24T00:00:00,1610612762,jazz,J. Evans,Utah,jeremy_evans,202379,Forward,"Evans, Jeremy",Western Kentucky/USA,Active,Jazz,40
+Hamady,Ndiaye,Senegal,Hamady Ndiaye,,Rutgers,1987-01-12T00:00:00,0,,H. Ndiaye,,hamady_ndiaye,202380,,"Ndiaye, Hamady",Rutgers/Senegal,Inactive,,
+Donald,Sloan,USA,Donald Sloan,IND,Texas A&M,1988-01-15T00:00:00,1610612754,pacers,D. Sloan,Indiana,donald_sloan,202388,Guard,"Sloan, Donald",Texas A&M/USA,Active,Pacers,15
+Timofey,Mozgov,Russia,Timofey Mozgov,DEN,"St. Petersburg, Russia",1986-07-16T00:00:00,1610612743,nuggets,T. Mozgov,Denver,timofey_mozgov,202389,Center,"Mozgov, Timofey",Khimki Moscow/Russia,Active,Nuggets,25
+Gary,Neal,USA,Gary Neal,CHA,Towson University,1984-10-03T00:00:00,1610612766,bobcats,G. Neal,Charlotte,gary_neal,202390,Guard,"Neal, Gary",Towson/USA,Active,Bobcats,12
+Gary,Neal,USA,Gary Neal,CHA,Towson University,1984-10-03T00:00:00,1610612766,bobcats,G. Neal,Charlotte,gary_neal,202390,Guard,"Neal, Gary",Towson/USA,Active,Bobcats,12
+Gary,Neal,USA,Gary Neal,CHA,Towson University,1984-10-03T00:00:00,1610612766,bobcats,G. Neal,Charlotte,gary_neal,202390,Guard,"Neal, Gary",Towson/USA,Active,Bobcats,12
+Jeremy,Lin,USA,Jeremy Lin,HOU,Harvard,1988-08-23T00:00:00,1610612745,rockets,J. Lin,Houston,jeremy_lin,202391,Guard,"Lin, Jeremy",Harvard/USA,Active,Rockets,7
+Ish,Smith,USA,Ish Smith,PHX,Wake Forest,1988-07-05T00:00:00,1610612756,suns,I. Smith,Phoenix,ish_smith,202397,Guard,"Smith, Ish",Wake Forest/USA,Active,Suns,3
+Jeff,Adrien,USA,Jeff Adrien,MIL,Connecticut,1986-02-10T00:00:00,1610612749,bucks,J. Adrien,Milwaukee,jeff_adrien,202399,Forward,"Adrien, Jeff",Connecticut/USA,Active,Bucks,12
+Jeff,Adrien,USA,Jeff Adrien,MIL,Connecticut,1986-02-10T00:00:00,1610612749,bucks,J. Adrien,Milwaukee,jeff_adrien,202399,Forward,"Adrien, Jeff",Connecticut/USA,Active,Bucks,12
+Jeff,Adrien,USA,Jeff Adrien,MIL,Connecticut,1986-02-10T00:00:00,1610612749,bucks,J. Adrien,Milwaukee,jeff_adrien,202399,Forward,"Adrien, Jeff",Connecticut/USA,Active,Bucks,12
+Manny,Harris,USA,Manny Harris,,Michigan,1989-09-21T00:00:00,0,,M. Harris,,manny_harris,202412,,"Harris, Manny",Michigan/USA,Inactive,,
+Lance,Thomas,USA,Lance Thomas,,Duke,1988-04-24T00:00:00,0,,L. Thomas,,lance_thomas,202498,,"Thomas, Lance",Duke/USA,Inactive,,
+Arinze,Onuaku,USA,Arinze Onuaku,,Syracuse,1987-07-13T00:00:00,0,,A. Onuaku,,arinze_onuaku,202620,,"Onuaku, Arinze",Syracuse/USA,Inactive,,
+Arinze,Onuaku,USA,Arinze Onuaku,,Syracuse,1987-07-13T00:00:00,0,,A. Onuaku,,arinze_onuaku,202620,,"Onuaku, Arinze",Syracuse/USA,Inactive,,
+Arinze,Onuaku,USA,Arinze Onuaku,,Syracuse,1987-07-13T00:00:00,0,,A. Onuaku,,arinze_onuaku,202620,,"Onuaku, Arinze",Syracuse/USA,Inactive,,
+Kyrie,Irving,USA,Kyrie Irving,CLE,Duke,1992-03-23T00:00:00,1610612739,cavaliers,K. Irving,Cleveland,kyrie_irving,202681,Guard,"Irving, Kyrie",Duke/USA,Active,Cavaliers,2
+Derrick,Williams,USA,Derrick Williams,SAC,Arizona,1991-05-25T00:00:00,1610612758,kings,D. Williams,Sacramento,derrick_williams,202682,Forward,"Williams, Derrick",Arizona/USA,Active,Kings,13
+Derrick,Williams,USA,Derrick Williams,SAC,Arizona,1991-05-25T00:00:00,1610612758,kings,D. Williams,Sacramento,derrick_williams,202682,Forward,"Williams, Derrick",Arizona/USA,Active,Kings,13
+Derrick,Williams,USA,Derrick Williams,SAC,Arizona,1991-05-25T00:00:00,1610612758,kings,D. Williams,Sacramento,derrick_williams,202682,Forward,"Williams, Derrick",Arizona/USA,Active,Kings,13
+Enes,Kanter,Kentucky/Turkey,Enes Kanter,UTA,Kentucky,1992-05-20T00:00:00,1610612762,jazz,E. Kanter,Utah,enes_kanter,202683,Center,"Kanter, Enes",Fenerbahce Ulker/Kentucky/Turkey,Active,Jazz,0
+Tristan,Thompson,Canada,Tristan Thompson,CLE,Texas,1991-03-13T00:00:00,1610612739,cavaliers,T. Thompson,Cleveland,tristan_t_thompson,202684,Forward,"Thompson, Tristan",Texas/Canada,Active,Cavaliers,13
+Jonas,Valanciunas,Lithuania,Jonas Valanciunas,TOR,"Utena, Lithuania",1992-05-06T00:00:00,1610612761,raptors,J. Valanciunas,Toronto,jonas_valanciunas,202685,Center,"Valanciunas, Jonas","Utena, Lithuania",Active,Raptors,17
+Jan,Vesely,Czech Republic,Jan Vesely,DEN,"Ostrava, Czech Republic",1990-04-24T00:00:00,1610612743,nuggets,J. Vesely,Denver,jan_vesely,202686,Forward,"Vesely, Jan",Partizan Belgrade/Czech Republic,Active,Nuggets,24
+Jan,Vesely,Czech Republic,Jan Vesely,DEN,"Ostrava, Czech Republic",1990-04-24T00:00:00,1610612743,nuggets,J. Vesely,Denver,jan_vesely,202686,Forward,"Vesely, Jan",Partizan Belgrade/Czech Republic,Active,Nuggets,24
+Jan,Vesely,Czech Republic,Jan Vesely,DEN,"Ostrava, Czech Republic",1990-04-24T00:00:00,1610612743,nuggets,J. Vesely,Denver,jan_vesely,202686,Forward,"Vesely, Jan",Partizan Belgrade/Czech Republic,Active,Nuggets,24
+Bismack,Biyombo,Democratic Republic of Congo,Bismack Biyombo,CHA,"Lubumbashi, DR Congo",1992-08-28T00:00:00,1610612766,bobcats,B. Biyombo,Charlotte,bismack_biyombo,202687,Center-Forward,"Biyombo, Bismack",Baloncesto Fuenlabrada/Democratic Republic of Cong,Active,Bobcats,0
+Brandon,Knight,USA,Brandon Knight,MIL,Kentucky,1991-12-02T00:00:00,1610612749,bucks,B. Knight,Milwaukee,brandon_knight,202688,Guard,"Knight, Brandon",Kentucky/USA,Active,Bucks,11
+Kemba,Walker,USA,Kemba Walker,CHA,Connecticut,1990-05-08T00:00:00,1610612766,bobcats,K. Walker,Charlotte,kemba_walker,202689,Guard,"Walker, Kemba",Connecticut/USA,Active,Bobcats,15
+Jimmer,Fredette,USA,Jimmer Fredette,CHI,Brigham Young,1989-02-25T00:00:00,1610612741,bulls,J. Fredette,Chicago,jimmer_fredette,202690,Guard,"Fredette, Jimmer",Brigham Young/USA,Active,Bulls,32
+Jimmer,Fredette,USA,Jimmer Fredette,CHI,Brigham Young,1989-02-25T00:00:00,1610612741,bulls,J. Fredette,Chicago,jimmer_fredette,202690,Guard,"Fredette, Jimmer",Brigham Young/USA,Active,Bulls,32
+Jimmer,Fredette,USA,Jimmer Fredette,CHI,Brigham Young,1989-02-25T00:00:00,1610612741,bulls,J. Fredette,Chicago,jimmer_fredette,202690,Guard,"Fredette, Jimmer",Brigham Young/USA,Active,Bulls,32
+Klay,Thompson,USA,Klay Thompson,GSW,Washington State,1990-02-08T00:00:00,1610612744,warriors,K. Thompson,Golden State,klay_thompson,202691,Guard,"Thompson, Klay",Washington State/USA,Active,Warriors,11
+Alec,Burks,USA,Alec Burks,UTA,Colorado,1991-07-20T00:00:00,1610612762,jazz,A. Burks,Utah,alec_burks,202692,Guard,"Burks, Alec",Colorado/USA,Active,Jazz,10
+Markieff,Morris,USA,Markieff Morris,PHX,Kansas,1989-09-02T00:00:00,1610612756,suns,M. Morris,Phoenix,markieff_morris,202693,Forward,"Morris, Markieff",Kansas/USA,Active,Suns,11
+Marcus,Morris,USA,Marcus Morris,PHX,Kansas,1989-09-02T00:00:00,1610612756,suns,M. Morris,Phoenix,marcus_morris,202694,Forward,"Morris, Marcus",Kansas/USA,Active,Suns,15
+Kawhi,Leonard,USA,Kawhi Leonard,SAS,San Diego State,1991-06-29T00:00:00,1610612759,spurs,K. Leonard,San Antonio,kawhi_leonard,202695,Forward-Guard,"Leonard, Kawhi",San Diego State/USA,Active,Spurs,2
+Nikola,Vucevic,Montenegro,Nikola Vucevic,ORL,USC,1990-10-24T00:00:00,1610612753,magic,N. Vucevic,Orlando,nikola_vucevic,202696,Center,"Vucevic, Nikola",USC/Montenegro,Active,Magic,9
+Iman,Shumpert,USA,Iman Shumpert,NYK,Georgia Tech,1990-06-26T00:00:00,1610612752,knicks,I. Shumpert,New York,iman_shumpert,202697,Guard-Forward,"Shumpert, Iman",Georgia Tech/USA,Active,Knicks,21
+Chris,Singleton,USA,Chris Singleton,WAS,Florida State,1989-11-21T00:00:00,1610612764,wizards,C. Singleton,Washington,chris_singleton,202698,Forward,"Singleton, Chris",Florida State/USA,Active,Wizards,31
+Tobias,Harris,USA,Tobias Harris,ORL,Tennessee,1992-07-15T00:00:00,1610612753,magic,T. Harris,Orlando,tobias_harris,202699,Forward,"Harris, Tobias",Tennessee/USA,Active,Magic,12
+Donatas,Motiejunas,Lithuania,Donatas Motiejunas,HOU,"Kaunas, Lithuania",1990-09-20T00:00:00,1610612745,rockets,D. Motiejunas,Houston,donatas_motiejunas,202700,Forward-Center,"Motiejunas, Donatas","Kaunas, Lithuania",Active,Rockets,20
+Kenneth,Faried,USA,Kenneth Faried,DEN,Morehead State,1989-11-19T00:00:00,1610612743,nuggets,K. Faried,Denver,kenneth_faried,202702,Forward,"Faried, Kenneth",Morehead State/USA,Active,Nuggets,35
+Reggie,Jackson,USA,Reggie Jackson,OKC,Boston College,1990-04-16T00:00:00,1610612760,thunder,R. Jackson,Oklahoma City,reggie_jackson,202704,Guard,"Jackson, Reggie",Boston College/USA,Active,Thunder,15
+MarShon,Brooks,USA,MarShon Brooks,LAL,Providence,1989-01-26T00:00:00,1610612747,lakers,M. Brooks,Los Angeles,marshon_brooks,202705,Guard,"Brooks, MarShon",Providence/USA,Active,Lakers,2
+MarShon,Brooks,USA,MarShon Brooks,LAL,Providence,1989-01-26T00:00:00,1610612747,lakers,M. Brooks,Los Angeles,marshon_brooks,202705,Guard,"Brooks, MarShon",Providence/USA,Active,Lakers,2
+MarShon,Brooks,USA,MarShon Brooks,LAL,Providence,1989-01-26T00:00:00,1610612747,lakers,M. Brooks,Los Angeles,marshon_brooks,202705,Guard,"Brooks, MarShon",Providence/USA,Active,Lakers,2
+MarShon,Brooks,USA,MarShon Brooks,LAL,Providence,1989-01-26T00:00:00,1610612747,lakers,M. Brooks,Los Angeles,marshon_brooks,202705,Guard,"Brooks, MarShon",Providence/USA,Active,Lakers,2
+Jordan,Hamilton,USA,Jordan Hamilton,HOU,Texas,1990-10-06T00:00:00,1610612745,rockets,J. Hamilton,Houston,jordan_hamilton,202706,Forward-Guard,"Hamilton, Jordan",Texas/USA,Active,Rockets,5
+Jordan,Hamilton,USA,Jordan Hamilton,HOU,Texas,1990-10-06T00:00:00,1610612745,rockets,J. Hamilton,Houston,jordan_hamilton,202706,Forward-Guard,"Hamilton, Jordan",Texas/USA,Active,Rockets,5
+Jordan,Hamilton,USA,Jordan Hamilton,HOU,Texas,1990-10-06T00:00:00,1610612745,rockets,J. Hamilton,Houston,jordan_hamilton,202706,Forward-Guard,"Hamilton, Jordan",Texas/USA,Active,Rockets,5
+Norris,Cole,USA,Norris Cole,MIA,Cleveland State,1988-10-13T00:00:00,1610612748,heat,N. Cole,Miami,norris_cole,202708,Guard,"Cole, Norris",Cleveland State/USA,Active,Heat,30
+Cory,Joseph,Canada,Cory Joseph,SAS,Texas,1991-08-20T00:00:00,1610612759,spurs,C. Joseph,San Antonio,cory_joseph,202709,Guard,"Joseph, Cory",Texas/Canada,Active,Spurs,5
+Jimmy,Butler,USA,Jimmy Butler,CHI,Marquette,1989-09-14T00:00:00,1610612741,bulls,J. Butler,Chicago,jimmy_butler,202710,Guard-Forward,"Butler, Jimmy",Marquette/USA,Active,Bulls,21
+Kyle,Singler,USA,Kyle Singler,DET,Duke,1988-05-04T00:00:00,1610612765,pistons,K. Singler,Detroit,kyle_singler,202713,Forward,"Singler, Kyle",Duke/USA,Active,Pistons,25
+Shelvin,Mack,USA,Shelvin Mack,ATL,Butler,1990-04-22T00:00:00,1610612737,hawks,S. Mack,Atlanta,shelvin_mack,202714,Guard,"Mack, Shelvin",Butler/USA,Active,Hawks,8
+Chandler,Parsons,USA,Chandler Parsons,HOU,Florida,1988-10-25T00:00:00,1610612745,rockets,C. Parsons,Houston,chandler_parsons,202718,Forward,"Parsons, Chandler",Florida/USA,Active,Rockets,25
+Jeremy,Tyler,USA,Jeremy Tyler,NYK,"San Diego, California",1991-06-21T00:00:00,1610612752,knicks,J. Tyler,New York,jeremy_tyler,202719,Forward,"Tyler, Jeremy",Tokyo Apache/USA,Active,Knicks,4
+Jon,Leuer,USA,Jon Leuer,MEM,Wisconsin,1989-05-14T00:00:00,1610612763,grizzlies,J. Leuer,Memphis,jon_leuer,202720,Forward,"Leuer, Jon",Wisconsin/USA,Active,Grizzlies,30
+Darius,Morris,USA,Darius Morris,,Michigan,1991-01-03T00:00:00,0,,D. Morris,,darius_morris,202721,,"Morris, Darius",Michigan/USA,Inactive,,
+Darius,Morris,USA,Darius Morris,,Michigan,1991-01-03T00:00:00,0,,D. Morris,,darius_morris,202721,,"Morris, Darius",Michigan/USA,Inactive,,
+Darius,Morris,USA,Darius Morris,,Michigan,1991-01-03T00:00:00,0,,D. Morris,,darius_morris,202721,,"Morris, Darius",Michigan/USA,Inactive,,
+Darius,Morris,USA,Darius Morris,,Michigan,1991-01-03T00:00:00,0,,D. Morris,,darius_morris,202721,,"Morris, Darius",Michigan/USA,Inactive,,
+Josh,Harrellson,USA,Josh Harrellson,DET,Kentucky,1989-02-12T00:00:00,1610612765,pistons,J. Harrellson,Detroit,josh_harrellson,202725,Forward-Center,"Harrellson, Josh",Kentucky/USA,Active,Pistons,55
+Lavoy,Allen,USA,Lavoy Allen,IND,Temple,1989-02-04T00:00:00,1610612754,pacers,L. Allen,Indiana,lavoy_allen,202730,Forward-Center,"Allen, Lavoy",Temple/USA,Active,Pacers,5
+Lavoy,Allen,USA,Lavoy Allen,IND,Temple,1989-02-04T00:00:00,1610612754,pacers,L. Allen,Indiana,lavoy_allen,202730,Forward-Center,"Allen, Lavoy",Temple/USA,Active,Pacers,5
+Lavoy,Allen,USA,Lavoy Allen,IND,Temple,1989-02-04T00:00:00,1610612754,pacers,L. Allen,Indiana,lavoy_allen,202730,Forward-Center,"Allen, Lavoy",Temple/USA,Active,Pacers,5
+DeAndre,Liggins,USA,DeAndre Liggins,,Kentucky,1988-03-31T00:00:00,0,,D. Liggins,,deandre_liggins,202732,,"Liggins, DeAndre",Kentucky/USA,Inactive,,
+E'Twaun,Moore,USA,E'Twaun Moore,ORL,Purdue,1989-02-25T00:00:00,1610612753,magic,E. Moore,Orlando,etwaun_moore,202734,Guard,"Moore, E'Twaun",Purdue/USA,Active,Magic,55
+Isaiah,Thomas,USA,Isaiah Thomas,SAC,Washington,1989-02-07T00:00:00,1610612758,kings,I. Thomas,Sacramento,isaiah_thomas,202738,Guard,"Thomas, Isaiah",Washington/USA,Active,Kings,22
+Dwight,Buycks,USA,Dwight Buycks,TOR,Marquette,1989-03-06T00:00:00,1610612761,raptors,D. Buycks,Toronto,dwight_buycks,202779,Guard,"Buycks, Dwight",Marquette/USA,Active,Raptors,13
+Chris,Wright,USA,Chris Wright,MIL,Dayton,1988-09-30T00:00:00,1610612749,bucks,C. Wright,Milwaukee,chris_wright,202874,Forward,"Wright, Chris",Dayton/USA,Active,Bucks,15
+Julyan,Stone,USA,Julyan Stone,TOR,Texas-El Paso,1988-12-07T00:00:00,1610612761,raptors,J. Stone,Toronto,julyan_stone,202933,Guard,"Stone, Julyan",Texas-El Paso/USA,Active,Raptors,77
+Malcolm,Thomas,USA,Malcolm Thomas,UTA,San Diego State,1988-11-08T00:00:00,1610612762,jazz,M. Thomas,Utah,malcolm_thomas,202952,Forward,"Thomas, Malcolm",San Diego State/USA,Active,Jazz,22
+Malcolm,Thomas,USA,Malcolm Thomas,UTA,San Diego State,1988-11-08T00:00:00,1610612762,jazz,M. Thomas,Utah,malcolm_thomas,202952,Forward,"Thomas, Malcolm",San Diego State/USA,Active,Jazz,22
+Malcolm,Thomas,USA,Malcolm Thomas,UTA,San Diego State,1988-11-08T00:00:00,1610612762,jazz,M. Thomas,Utah,malcolm_thomas,202952,Forward,"Thomas, Malcolm",San Diego State/USA,Active,Jazz,22
+Greg,Smith,USA,Greg Smith,CHI,Fresno State,1991-01-08T00:00:00,1610612741,bulls,G. Smith,Chicago,greg_smith,202962,Forward-Center,"Smith, Greg",Fresno State/USA,Active,Bulls,9
+Gustavo,Ayon,Mexico,Gustavo Ayon,ATL,"Tepic, Mexico",1985-04-01T00:00:00,1610612737,hawks,G. Ayon,Atlanta,gustavo_ayon,202970,Forward-Center,"Ayon, Gustavo",Baloncesto Fuenlabrada/Mexico,Active,Hawks,14
+Kenyon,Martin,USA,Kenyon Martin,NYK,Cincinnati,1977-12-30T00:00:00,1610612752,knicks,K. Martin,New York,kenyon_martin,2030,Forward,"Martin, Kenyon",Cincinnati/USA,Active,Knicks,3
+Anthony,Davis,USA,Anthony Davis,NOP,Kentucky,1993-03-11T00:00:00,1610612740,pelicans,A. Davis,New Orleans,anthony_davis,203076,Forward-Center,"Davis, Anthony",Kentucky/USA,Active,Pelicans,23
+Michael,Kidd-Gilchrist,USA,Michael Kidd-Gilchrist,CHA,Kentucky,1993-09-26T00:00:00,1610612766,bobcats,M. Kidd-Gilchrist,Charlotte,michael_kidd-gilchrist,203077,Forward,"Kidd-Gilchrist, Michael",Kentucky/USA,Active,Bobcats,14
+Bradley,Beal,USA,Bradley Beal,WAS,Florida,1993-06-28T00:00:00,1610612764,wizards,B. Beal,Washington,bradley_beal,203078,Guard,"Beal, Bradley",Florida/USA,Active,Wizards,3
+Dion,Waiters,USA,Dion Waiters,CLE,Syracuse,1991-12-10T00:00:00,1610612739,cavaliers,D. Waiters,Cleveland,dion_waiters,203079,Guard,"Waiters, Dion",Syracuse/USA,Active,Cavaliers,3
+Thomas,Robinson,USA,Thomas Robinson,POR,Kansas,1991-03-17T00:00:00,1610612757,blazers,T. Robinson,Portland,thomas_robinson,203080,Forward,"Robinson, Thomas",Kansas/USA,Active,Trail Blazers,41
+Damian,Lillard,USA,Damian Lillard,POR,Weber State,1990-07-15T00:00:00,1610612757,blazers,D. Lillard,Portland,damian_lillard,203081,Guard,"Lillard, Damian",Weber State/USA,Active,Trail Blazers,0
+Terrence,Ross,USA,Terrence Ross,TOR,Washington,1991-02-05T00:00:00,1610612761,raptors,T. Ross,Toronto,terrence_ross,203082,Forward,"Ross, Terrence",Washington/USA,Active,Raptors,31
+Andre,Drummond,USA,Andre Drummond,DET,Connecticut,1993-08-10T00:00:00,1610612765,pistons,A. Drummond,Detroit,andre_drummond,203083,Center,"Drummond, Andre",Connecticut/USA,Active,Pistons,0
+Harrison,Barnes,USA,Harrison Barnes,GSW,North Carolina,1992-05-30T00:00:00,1610612744,warriors,H. Barnes,Golden State,harrison_barnes,203084,Forward,"Barnes, Harrison",North Carolina/USA,Active,Warriors,40
+Austin,Rivers,USA,Austin Rivers,NOP,Duke,1992-08-01T00:00:00,1610612740,pelicans,A. Rivers,New Orleans,austin_rivers,203085,Guard,"Rivers, Austin",Duke/USA,Active,Pelicans,25
+Meyers,Leonard,USA,Meyers Leonard,POR,Illinois,1992-02-27T00:00:00,1610612757,blazers,M. Leonard,Portland,meyers_leonard,203086,Center,"Leonard, Meyers",Illinois/USA,Active,Trail Blazers,11
+Jeremy,Lamb,USA,Jeremy Lamb,OKC,Connecticut,1992-05-30T00:00:00,1610612760,thunder,J. Lamb,Oklahoma City,jeremy_lamb,203087,Guard,"Lamb, Jeremy",Connecticut/USA,Active,Thunder,11
+Kendall,Marshall,USA,Kendall Marshall,LAL,North Carolina,1991-08-19T00:00:00,1610612747,lakers,K. Marshall,Los Angeles,kendall_marshall,203088,Guard,"Marshall, Kendall",North Carolina/USA,Active,Lakers,12
+John,Henson,USA,John Henson,MIL,North Carolina,1990-12-28T00:00:00,1610612749,bucks,J. Henson,Milwaukee,john_henson,203089,Center-Forward,"Henson, John",North Carolina/USA,Active,Bucks,31
+Maurice,Harkless,USA,Maurice Harkless,ORL,"St. John's, N.Y.",1993-05-11T00:00:00,1610612753,magic,M. Harkless,Orlando,maurice_harkless,203090,Forward,"Harkless, Maurice",St. John's (N.Y.)/USA,Active,Magic,21
+Royce,White,USA,Royce White,,Iowa State,1991-04-10T00:00:00,0,,R. White,,royce_white,203091,,"White, Royce",Iowa State/USA,Inactive,,
+Tyler,Zeller,USA,Tyler Zeller,CLE,North Carolina,1990-01-17T00:00:00,1610612739,cavaliers,T. Zeller,Cleveland,tyler_zeller,203092,Center-Forward,"Zeller, Tyler",North Carolina/USA,Active,Cavaliers,40
+Terrence,Jones,USA,Terrence Jones,HOU,Kentucky,1992-01-09T00:00:00,1610612745,rockets,T. Jones,Houston,terrence_jones,203093,Forward,"Jones, Terrence",Kentucky/USA,Active,Rockets,6
+Andrew,Nicholson,Canada,Andrew Nicholson,ORL,St. Bonaventure,1989-12-08T00:00:00,1610612753,magic,A. Nicholson,Orlando,andrew_nicholson,203094,Forward,"Nicholson, Andrew",St. Bonaventure/Canada,Active,Magic,44
+Evan,Fournier,France,Evan Fournier,DEN,France,1992-10-29T00:00:00,1610612743,nuggets,E. Fournier,Denver,evan_fournier,203095,Guard,"Fournier, Evan",Poitiers Basket 86/France,Active,Nuggets,94
+Jared,Sullinger,USA,Jared Sullinger,BOS,Ohio State,1992-03-04T00:00:00,1610612738,celtics,J. Sullinger,Boston,jared_sullinger,203096,Center-Forward,"Sullinger, Jared",Ohio State/USA,Active,Celtics,7
+John,Jenkins,USA,John Jenkins,ATL,Vanderbilt,1991-03-06T00:00:00,1610612737,hawks,J. Jenkins,Atlanta,john_jenkins,203098,Guard,"Jenkins, John",Vanderbilt/USA,Active,Hawks,12
+Jared,Cunningham,USA,Jared Cunningham,SAC,Oregon State,1991-05-22T00:00:00,1610612758,kings,J. Cunningham,Sacramento,jared_cunningham,203099,Guard,"Cunningham, Jared",Oregon State/USA,Active,Kings,9
+Jared,Cunningham,USA,Jared Cunningham,SAC,Oregon State,1991-05-22T00:00:00,1610612758,kings,J. Cunningham,Sacramento,jared_cunningham,203099,Guard,"Cunningham, Jared",Oregon State/USA,Active,Kings,9
+Jared,Cunningham,USA,Jared Cunningham,SAC,Oregon State,1991-05-22T00:00:00,1610612758,kings,J. Cunningham,Sacramento,jared_cunningham,203099,Guard,"Cunningham, Jared",Oregon State/USA,Active,Kings,9
+Tony,Wroten,USA,Tony Wroten,PHI,Washington,1993-04-13T00:00:00,1610612755,sixers,T. Wroten,Philadelphia,tony_wroten,203100,Guard,"Wroten, Tony",Washington/USA,Active,76ers,8
+Miles,Plumlee,USA,Miles Plumlee,PHX,Duke,1988-09-01T00:00:00,1610612756,suns,M. Plumlee,Phoenix,miles_plumlee,203101,Center-Forward,"Plumlee, Miles",Duke/USA,Active,Suns,22
+Arnett,Moultrie,USA,Arnett Moultrie,PHI,Mississippi State,1990-11-18T00:00:00,1610612755,sixers,A. Moultrie,Philadelphia,arnett_moultrie,203102,Forward,"Moultrie, Arnett",Mississippi State/USA,Active,76ers,5
+Perry,Jones,USA,Perry Jones,OKC,Baylor,1991-09-24T00:00:00,1610612760,thunder,P. Jones,Oklahoma City,perry_jones,203103,Forward,"Jones, Perry",Baylor/USA,Active,Thunder,3
+Marquis,Teague,USA,Marquis Teague,BKN,Kentucky,1993-02-28T00:00:00,1610612751,nets,M. Teague,Brooklyn,marquis_teague,203104,Guard,"Teague, Marquis",Kentucky/USA,Active,Nets,12
+Marquis,Teague,USA,Marquis Teague,BKN,Kentucky,1993-02-28T00:00:00,1610612751,nets,M. Teague,Brooklyn,marquis_teague,203104,Guard,"Teague, Marquis",Kentucky/USA,Active,Nets,12
+Marquis,Teague,USA,Marquis Teague,BKN,Kentucky,1993-02-28T00:00:00,1610612751,nets,M. Teague,Brooklyn,marquis_teague,203104,Guard,"Teague, Marquis",Kentucky/USA,Active,Nets,12
+Jeff,Taylor,Sweden,Jeff Taylor,CHA,Vanderbilt,1989-05-23T00:00:00,1610612766,bobcats,J. Taylor,Charlotte,jeff_taylor,203106,Forward,"Taylor, Jeff",Vanderbilt/Sweden,Active,Bobcats,44
+Bernard,James,USA,Bernard James,DAL,Florida State,1985-02-07T00:00:00,1610612742,mavericks,B. James,Dallas,bernard_james,203108,Center,"James, Bernard",Florida State/USA,Active,Mavericks,5
+Jae,Crowder,USA,Jae Crowder,DAL,Marquette,1990-07-06T00:00:00,1610612742,mavericks,J. Crowder,Dallas,jae_crowder,203109,Forward,"Crowder, Jae",Marquette/USA,Active,Mavericks,9
+Draymond,Green,USA,Draymond Green,GSW,Michigan State,1990-03-04T00:00:00,1610612744,warriors,D. Green,Golden State,draymond_green,203110,Forward,"Green, Draymond",Michigan State/USA,Active,Warriors,23
+Orlando,Johnson,USA,Orlando Johnson,,UC Santa Barbara,1989-03-11T00:00:00,0,,O. Johnson,,orlando_johnson,203111,,"Johnson, Orlando",California-Santa Barbara/USA,Inactive,,
+Orlando,Johnson,USA,Orlando Johnson,,UC Santa Barbara,1989-03-11T00:00:00,0,,O. Johnson,,orlando_johnson,203111,,"Johnson, Orlando",California-Santa Barbara/USA,Inactive,,
+Orlando,Johnson,USA,Orlando Johnson,,UC Santa Barbara,1989-03-11T00:00:00,0,,O. Johnson,,orlando_johnson,203111,,"Johnson, Orlando",California-Santa Barbara/USA,Inactive,,
+Quincy,Acy,USA,Quincy Acy,SAC,Baylor,1990-10-06T00:00:00,1610612758,kings,Q. Acy,Sacramento,quincy_acy,203112,Forward,"Acy, Quincy",Baylor/USA,Active,Kings,5
+Quincy,Acy,USA,Quincy Acy,SAC,Baylor,1990-10-06T00:00:00,1610612758,kings,Q. Acy,Sacramento,quincy_acy,203112,Forward,"Acy, Quincy",Baylor/USA,Active,Kings,5
+Quincy,Acy,USA,Quincy Acy,SAC,Baylor,1990-10-06T00:00:00,1610612758,kings,Q. Acy,Sacramento,quincy_acy,203112,Forward,"Acy, Quincy",Baylor/USA,Active,Kings,5
+Quincy,Miller,USA,Quincy Miller,DEN,Baylor,1992-11-18T00:00:00,1610612743,nuggets,Q. Miller,Denver,quincy_miller,203113,Forward,"Miller, Quincy",Baylor/USA,Active,Nuggets,30
+Khris,Middleton,USA,Khris Middleton,MIL,Texas A&M,1991-08-12T00:00:00,1610612749,bucks,K. Middleton,Milwaukee,khris_middleton,203114,Forward,"Middleton, Khris",Texas A&M/USA,Active,Bucks,22
+Will,Barton,USA,Will Barton,POR,Memphis,1991-01-06T00:00:00,1610612757,blazers,W. Barton,Portland,will_barton,203115,Guard,"Barton, Will",Memphis/USA,Active,Trail Blazers,5
+Tyshawn,Taylor,USA,Tyshawn Taylor,,Kansas,1990-04-12T00:00:00,0,,T. Taylor,,tyshawn_taylor,203116,,"Taylor, Tyshawn",Kansas/USA,Inactive,,
+Doron,Lamb,USA,Doron Lamb,ORL,Kentucky,1991-11-06T00:00:00,1610612753,magic,D. Lamb,Orlando,doron_lamb,203117,Guard,"Lamb, Doron",Kentucky/USA,Active,Magic,1
+Mike,Scott,USA,Mike Scott,ATL,Virginia,1988-07-16T00:00:00,1610612737,hawks,M. Scott,Atlanta,mike_scott,203118,Forward,"Scott, Mike",Virginia/USA,Active,Hawks,32
+Justin,Hamilton,USA,Justin Hamilton,MIA,Louisiana State,1990-04-01T00:00:00,1610612748,heat,J. Hamilton,Miami,justin_hamilton,203120,Center,"Hamilton, Justin",Louisiana State/USA,Active,Heat,7
+Justin,Hamilton,USA,Justin Hamilton,MIA,Louisiana State,1990-04-01T00:00:00,1610612748,heat,J. Hamilton,Miami,justin_hamilton,203120,Center,"Hamilton, Justin",Louisiana State/USA,Active,Heat,7
+Justin,Hamilton,USA,Justin Hamilton,MIA,Louisiana State,1990-04-01T00:00:00,1610612748,heat,J. Hamilton,Miami,justin_hamilton,203120,Center,"Hamilton, Justin",Louisiana State/USA,Active,Heat,7
+Darius,Miller,USA,Darius Miller,NOP,Kentucky,1990-03-21T00:00:00,1610612740,pelicans,D. Miller,New Orleans,darius_miller,203121,Forward,"Miller, Darius",Kentucky/USA,Active,Pelicans,2
+Kyle,O'Quinn,USA,Kyle O'Quinn,ORL,Norfolk State,1990-03-26T00:00:00,1610612753,magic,K. O'Quinn,Orlando,kyle_oquinn,203124,Forward,"O'Quinn, Kyle",Norfolk State/USA,Active,Magic,2
+Tornike,Shengelia,Georgia,Tornike Shengelia,,Belgium,1991-10-05T00:00:00,0,,T. Shengelia,,tornike_shengelia,203129,,"Shengelia, Tornike",Spirou Charleroi (Spain)/Georgia,Inactive,,
+Tornike,Shengelia,Georgia,Tornike Shengelia,,Belgium,1991-10-05T00:00:00,0,,T. Shengelia,,tornike_shengelia,203129,,"Shengelia, Tornike",Spirou Charleroi (Spain)/Georgia,Inactive,,
+Tornike,Shengelia,Georgia,Tornike Shengelia,,Belgium,1991-10-05T00:00:00,0,,T. Shengelia,,tornike_shengelia,203129,,"Shengelia, Tornike",Spirou Charleroi (Spain)/Georgia,Inactive,,
+Darius,Johnson-Odom,USA,Darius Johnson-Odom,,Marquette,1989-09-28T00:00:00,0,,D. Johnson-Odom,,darius_johnson-odom,203130,,"Johnson-Odom, Darius",Marquette/USA,Inactive,,
+Robbie,Hummel,USA,Robbie Hummel,MIN,Purdue,1989-03-08T00:00:00,1610612750,timberwolves,R. Hummel,Minnesota,robbie_hummel,203133,Forward,"Hummel, Robbie",Purdue/USA,Active,Timberwolves,6
+Robert,Sacre,USA,Robert Sacre,LAL,Gonzaga,1989-06-06T00:00:00,1610612747,lakers,R. Sacre,Los Angeles,robert_sacre,203135,Center,"Sacre, Robert",Gonzaga/USA,Active,Lakers,50
+Ognjen,Kuzmic,Yugoslavia,Ognjen Kuzmic,GSW,,1990-05-16T00:00:00,1610612744,warriors,O. Kuzmic,Golden State,ognjen_kuzmic,203136,Center,"Kuzmic, Ognjen",Yugoslavia,Active,Warriors,1
+Hollis,Thompson,USA,Hollis Thompson,PHI,Georgetown,1991-04-03T00:00:00,1610612755,sixers,H. Thompson,Philadelphia,hollis_thompson,203138,Guard-Forward,"Thompson, Hollis",Georgetown/USA,Active,76ers,31
+Viacheslav,Kravtsov,Ukraine,Viacheslav Kravtsov,,Ukraine,1987-08-25T00:00:00,0,,V. Kravtsov,,viacheslav_kravtsov,203139,,"Kravtsov, Viacheslav",Ukraine,Inactive,,
+Mirza,Teletovic,Bosnia,Mirza Teletovic,BKN,Bosnia,1985-09-17T00:00:00,1610612751,nets,M. Teletovic,Brooklyn,mirza_teletovic,203141,Forward,"Teletovic, Mirza",Caja Laboral Vitoria (Spain)/Bosnia,Active,Nets,33
+Chris,Copeland,USA,Chris Copeland,IND,Colorado,1984-03-17T00:00:00,1610612754,pacers,C. Copeland,Indiana,chris_copeland,203142,Forward,"Copeland, Chris",Colorado/USA,Active,Pacers,22
+Pablo,Prigioni,Argentina,Pablo Prigioni,NYK,Argentina,1977-05-17T00:00:00,1610612752,knicks,P. Prigioni,New York,pablo_prigioni,203143,Guard,"Prigioni, Pablo",Caja Laboral (Spain)/Argentina,Active,Knicks,9
+Alexey,Shved,Russia,Alexey Shved,MIN,Russia,1988-12-16T00:00:00,1610612750,timberwolves,A. Shved,Minnesota,alexey_shved,203144,Guard,"Shved, Alexey",Russia,Active,Timberwolves,1
+Kent,Bazemore,USA,Kent Bazemore,LAL,Old Dominion,1989-07-01T00:00:00,1610612747,lakers,K. Bazemore,Los Angeles,kent_bazemore,203145,Guard,"Bazemore, Kent",Old Dominion/USA,Active,Lakers,6
+Kent,Bazemore,USA,Kent Bazemore,LAL,Old Dominion,1989-07-01T00:00:00,1610612747,lakers,K. Bazemore,Los Angeles,kent_bazemore,203145,Guard,"Bazemore, Kent",Old Dominion/USA,Active,Lakers,6
+Kent,Bazemore,USA,Kent Bazemore,LAL,Old Dominion,1989-07-01T00:00:00,1610612747,lakers,K. Bazemore,Los Angeles,kent_bazemore,203145,Guard,"Bazemore, Kent",Old Dominion/USA,Active,Lakers,6
+Maalik,Wayns,USA,Maalik Wayns,,Villanova,1991-05-02T00:00:00,0,,M. Wayns,,maalik_wayns,203146,,"Wayns, Maalik",Villanova/USA,Inactive,,
+Chris,Smith,USA,Chris Smith,,Louisville,1987-10-13T00:00:00,0,,C. Smith,,chris_smith,203147,,"Smith, Chris",Louisville/USA,Inactive,,
+Brian,Roberts,USA,Brian Roberts,NOP,Dayton,1985-12-03T00:00:00,1610612740,pelicans,B. Roberts,New Orleans,brian_roberts,203148,Guard,"Roberts, Brian",Dayton/USA,Active,Pelicans,22
+Henry,Sims,USA,Henry Sims,PHI,Georgetown,1990-03-27T00:00:00,1610612755,sixers,H. Sims,Philadelphia,henry_sims,203156,Center,"Sims, Henry",Georgetown/USA,Active,76ers,35
+Henry,Sims,USA,Henry Sims,PHI,Georgetown,1990-03-27T00:00:00,1610612755,sixers,H. Sims,Philadelphia,henry_sims,203156,Center,"Sims, Henry",Georgetown/USA,Active,76ers,35
+Henry,Sims,USA,Henry Sims,PHI,Georgetown,1990-03-27T00:00:00,1610612755,sixers,H. Sims,Philadelphia,henry_sims,203156,Center,"Sims, Henry",Georgetown/USA,Active,76ers,35
+Tony,Mitchell,,Tony Mitchell,,Alabama,1989-08-07T00:00:00,0,,T. Mitchell,,tony_mitchell,203183,,"Mitchell, Tony",Alabama,Inactive,,
+Chris,Johnson,USA,Chris Johnson,BOS,Dayton,1990-04-29T00:00:00,1610612738,celtics,C. Johnson,Boston,christapher_johnson,203187,Forward-Guard,"Johnson, Chris",Dayton,Active,Celtics,12
+Diante,Garrett,USA,Diante Garrett,UTA,Iowa State,1988-11-03T00:00:00,1610612762,jazz,D. Garrett,Utah,diante_garrett,203197,Guard,"Garrett, Diante",Iowa State/USA,Active,Jazz,8
+James,Nunnally,USA,James Nunnally,,California-Santa Barbara,1990-07-14T00:00:00,0,,J. Nunnally,,james_nunnally,203263,,"Nunnally, James",California-Santa Barbara/USA,Inactive,,
+James,Nunnally,USA,James Nunnally,,California-Santa Barbara,1990-07-14T00:00:00,0,,J. Nunnally,,james_nunnally,203263,,"Nunnally, James",California-Santa Barbara/USA,Inactive,,
+James,Nunnally,USA,James Nunnally,,California-Santa Barbara,1990-07-14T00:00:00,0,,J. Nunnally,,james_nunnally,203263,,"Nunnally, James",California-Santa Barbara/USA,Inactive,,
+Jorge,Gutierrez,Mexico,Jorge Gutierrez,BKN,UC Berkeley,1988-12-27T00:00:00,1610612751,nets,J. Gutierrez,Brooklyn,jorge_gutierrez,203268,Guard,"Gutierrez, Jorge",UC Berkeley/Mexico,Active,Nets,13
+Toure,Murry,USA,Toure Murry,NYK,Wichita State,1989-11-08T00:00:00,1610612752,knicks,T. Murry,New York,toure_murry,203315,Guard,"Murry, Toure",Wichita State/USA,Active,Knicks,23
+Glen,Rice Jr.,USA,Glen Rice Jr.,WAS,Georgia Tech,1991-01-01T00:00:00,1610612764,wizards,G. Rice Jr.,Washington,glen_rice_jr,203318,Guard-Forward,"Rice Jr., Glen",Georgia Tech/USA,Active,Wizards,14
+Aron,Baynes,New Zealand,Aron Baynes,SAS,Washington State,1986-12-09T00:00:00,1610612759,spurs,A. Baynes,San Antonio,aron_baynes,203382,Forward-Center,"Baynes, Aron",Washington State/New Zealand,Active,Spurs,16
+Mike,Miller,USA,Mike Miller,MEM,Florida,1980-02-19T00:00:00,1610612763,grizzlies,M. Miller,Memphis,mike_miller,2034,Forward,"Miller, Mike",Florida/USA,Active,Grizzlies,13
+Alex,Len,USSR,Alex Len,PHX,Maryland,1993-06-16T00:00:00,1610612756,suns,A. Len,Phoenix,alex_len,203458,Center,"Len, Alex",Maryland/USSR,Active,Suns,21
+Allen,Crabbe,USA,Allen Crabbe,POR,California,1992-04-09T00:00:00,1610612757,blazers,A. Crabbe,Portland,allen_crabbe,203459,Guard,"Crabbe, Allen",California/USA,Active,Trail Blazers,23
+Andre,Roberson,USA,Andre Roberson,OKC,Colorado,1991-12-04T00:00:00,1610612760,thunder,A. Roberson,Oklahoma City,andre_roberson,203460,Guard-Forward,"Roberson, Andre",Colorado/USA,Active,Thunder,21
+Anthony,Bennett,Canada,Anthony Bennett,CLE,Nevada-Las Vegas,1993-03-14T00:00:00,1610612739,cavaliers,A. Bennett,Cleveland,anthony_bennett,203461,Forward,"Bennett, Anthony",Nevada-Las Vegas/Canada,Active,Cavaliers,15
+Archie,Goodwin,USA,Archie Goodwin,PHX,Kentucky,1994-08-17T00:00:00,1610612756,suns,A. Goodwin,Phoenix,archie_goodwin,203462,Guard,"Goodwin, Archie",Kentucky/USA,Active,Suns,20
+Ben,McLemore,USA,Ben McLemore,SAC,Kansas,1993-02-11T00:00:00,1610612758,kings,B. McLemore,Sacramento,ben_mclemore,203463,Guard,"McLemore, Ben",Kansas/USA,Active,Kings,16
+Carrick,Felix,USA,Carrick Felix,CLE,Arizona State,1990-08-17T00:00:00,1610612739,cavaliers,C. Felix,Cleveland,carrick_felix,203467,Guard-Forward,"Felix, Carrick",Arizona State/USA,Active,Cavaliers,30
+CJ,McCollum,USA,CJ McCollum,POR,Lehigh,1991-09-19T00:00:00,1610612757,blazers,C. McCollum,Portland,cj_mccollum,203468,Guard,"McCollum, CJ",Lehigh,Active,Trail Blazers,3
+Cody,Zeller,USA,Cody Zeller,CHA,Indiana,1992-10-05T00:00:00,1610612766,bobcats,C. Zeller,Charlotte,cody_zeller,203469,Center-Forward,"Zeller, Cody",Indiana/USA,Active,Bobcats,40
+Dennis,Schroder,Germany,Dennis Schroder,ATL,Germany,1993-09-15T00:00:00,1610612737,hawks,D. Schroder,Atlanta,dennis_schroder,203471,Guard,"Schroder, Dennis",Germany,Active,Hawks,17
+Dewayne,Dedmon,USA,Dewayne Dedmon,ORL,USC,1989-08-12T00:00:00,1610612753,magic,D. Dedmon,Orlando,dewayne_dedmon,203473,Center,"Dedmon, Dewayne",USC,Active,Magic,3
+Dewayne,Dedmon,USA,Dewayne Dedmon,ORL,USC,1989-08-12T00:00:00,1610612753,magic,D. Dedmon,Orlando,dewayne_dedmon,203473,Center,"Dedmon, Dewayne",USC,Active,Magic,3
+Dewayne,Dedmon,USA,Dewayne Dedmon,ORL,USC,1989-08-12T00:00:00,1610612753,magic,D. Dedmon,Orlando,dewayne_dedmon,203473,Center,"Dedmon, Dewayne",USC,Active,Magic,3
+Dewayne,Dedmon,USA,Dewayne Dedmon,ORL,USC,1989-08-12T00:00:00,1610612753,magic,D. Dedmon,Orlando,dewayne_dedmon,203473,Center,"Dedmon, Dewayne",USC,Active,Magic,3
+DJ,Stephens,,DJ Stephens,,,1900-01-01T00:00:00,0,,D. Stephens,,dj_stephens,203474,,"Stephens, DJ",,Inactive,,
+Gorgui,Dieng,Senegal,Gorgui Dieng,MIN,Louisville,1990-01-18T00:00:00,1610612750,timberwolves,G. Dieng,Minnesota,gorgui_dieng,203476,Center,"Dieng, Gorgui",Louisville/Senegal,Active,Timberwolves,5
+Isaiah,Canaan,USA,Isaiah Canaan,HOU,Murray State,1991-05-02T00:00:00,1610612745,rockets,I. Canaan,Houston,isaiah_canaan,203477,Guard,"Canaan, Isaiah",Murray State/USA,Active,Rockets,1
+Jamaal,Franklin,USA,Jamaal Franklin,MEM,San Diego State,1991-07-21T00:00:00,1610612763,grizzlies,J. Franklin,Memphis,jamaal_franklin,203479,Guard,"Franklin, Jamaal",San Diego State/USA,Active,Grizzlies,22
+James,Southerland,USA,James Southerland,NOP,Syracuse,1990-04-28T00:00:00,1610612740,pelicans,J. Southerland,New Orleans,james_southerland,203480,Forward,"Southerland, James",Syracuse/USA,Active,Pelicans,31
+James,Southerland,USA,James Southerland,NOP,Syracuse,1990-04-28T00:00:00,1610612740,pelicans,J. Southerland,New Orleans,james_southerland,203480,Forward,"Southerland, James",Syracuse/USA,Active,Pelicans,31
+James,Southerland,USA,James Southerland,NOP,Syracuse,1990-04-28T00:00:00,1610612740,pelicans,J. Southerland,New Orleans,james_southerland,203480,Forward,"Southerland, James",Syracuse/USA,Active,Pelicans,31
+Jeff,Withey,USA,Jeff Withey,NOP,Kansas,1990-03-07T00:00:00,1610612740,pelicans,J. Withey,New Orleans,jeff_withey,203481,Center,"Withey, Jeff",Kansas/USA,Active,Pelicans,5
+Kelly,Olynyk,Canada,Kelly Olynyk,BOS,Gonzaga,1991-04-19T00:00:00,1610612738,celtics,K. Olynyk,Boston,kelly_olynyk,203482,Center-Forward,"Olynyk, Kelly",Gonzaga/Canada,Active,Celtics,41
+Kentavious,Caldwell-Pope,USA,Kentavious Caldwell-Pope,DET,Georgia,1993-02-18T00:00:00,1610612765,pistons,K. Caldwell-Pope,Detroit,kentavious_caldwell-pope,203484,Guard,"Caldwell-Pope, Kentavious",Georgia/USA,Active,Pistons,5
+Lorenzo,Brown,USA,Lorenzo Brown,,North Carolina State,1990-08-26T00:00:00,0,,L. Brown,,lorenzo_brown,203485,,"Brown, Lorenzo",North Carolina State/USA,Inactive,,
+Mason,Plumlee,USA,Mason Plumlee,BKN,Duke,1990-03-05T00:00:00,1610612751,nets,M. Plumlee,Brooklyn,mason_plumlee,203486,Forward-Center,"Plumlee, Mason",Duke/USA,Active,Nets,1
+Michael,Carter-Williams,USA,Michael Carter-Williams,PHI,Syracuse,1991-10-10T00:00:00,1610612755,sixers,M. Carter-Williams,Philadelphia,michael_carter-williams,203487,Guard,"Carter-Williams, Michael",Syracuse/USA,Active,76ers,1
+Mike,Muscala,USA,Mike Muscala,ATL,Bucknell,1991-07-01T00:00:00,1610612737,hawks,M. Muscala,Atlanta,mike_muscala,203488,Center,"Muscala, Mike",Bucknell/USA,Active,Hawks,31
+Nate,Wolters,USA,Nate Wolters,MIL,South Dakota State,1991-05-15T00:00:00,1610612749,bucks,N. Wolters,Milwaukee,nate_wolters,203489,Guard,"Wolters, Nate",South Dakota State/USA,Active,Bucks,6
+Otto,Porter,USA,Otto Porter,WAS,Georgetown,1993-06-03T00:00:00,1610612764,wizards,O. Porter,Washington,otto_porter,203490,Forward,"Porter, Otto",Georgetown/USA,Active,Wizards,22
+Peyton,Siva,USA,Peyton Siva,DET,Louisville,1990-10-24T00:00:00,1610612765,pistons,P. Siva,Detroit,peyton_siva,203491,Guard,"Siva, Peyton",Louisville/USA,Active,Pistons,34
+Ray,McCallum,USA,Ray McCallum,SAC,Detroit,1991-06-12T00:00:00,1610612758,kings,R. McCallum,Sacramento,ray_mccallum,203492,Guard,"McCallum, Ray",Detroit/USA,Active,Kings,3
+Reggie,Bullock,USA,Reggie Bullock,LAC,North Carolina,1991-03-16T00:00:00,1610612746,clippers,R. Bullock,Los Angeles,reggie_bullock,203493,Guard,"Bullock, Reggie",North Carolina/USA,Active,Clippers,25
+Ricky,Ledo,USA,Ricky Ledo,DAL,Providence,1992-09-10T00:00:00,1610612742,mavericks,R. Ledo,Dallas,ricardo_ledo,203495,Guard,"Ledo, Ricky",Providence/USA,Active,Mavericks,7
+Robert,Covington,USA,Robert Covington,HOU,Tennessee State,1990-12-14T00:00:00,1610612745,rockets,R. Covington,Houston,robert_covington,203496,Forward,"Covington, Robert",Tennessee State/USA,Active,Rockets,33
+Rudy,Gobert,France,Rudy Gobert,UTA,France,1992-06-26T00:00:00,1610612762,jazz,R. Gobert,Utah,rudy_gobert,203497,Center,"Gobert, Rudy",France,Active,Jazz,27
+Shabazz,Muhammad,USA,Shabazz Muhammad,MIN,UCLA,1992-11-13T00:00:00,1610612750,timberwolves,S. Muhammad,Minnesota,shabazz_muhammad,203498,Forward,"Muhammad, Shabazz",UCLA/USA,Active,Timberwolves,15
+Shane,Larkin,USA,Shane Larkin,DAL,Miami (Fla.),1992-10-02T00:00:00,1610612742,mavericks,S. Larkin,Dallas,shane_larkin,203499,Guard,"Larkin, Shane",Miami (Fla.)/USA,Active,Mavericks,3
+Steven,Adams,New Zealand,Steven Adams,OKC,Pittsburgh,1993-07-20T00:00:00,1610612760,thunder,S. Adams,Oklahoma City,steven_adams,203500,Center,"Adams, Steven",Pittsburgh/New Zealand,Active,Thunder,12
+Tim,Hardaway Jr.,USA,Tim Hardaway Jr.,NYK,Michigan,1992-03-16T00:00:00,1610612752,knicks,T. Hardaway Jr.,New York,timothy_hardaway,203501,Guard,"Hardaway Jr., Tim",Michigan/USA,Active,Knicks,5
+Tony,Mitchell,USA,Tony Mitchell,DET,North Texas,1992-04-07T00:00:00,1610612765,pistons,T. Mitchell,Detroit,tony_l_mitchell,203502,Forward,"Mitchell, Tony",North Texas/USA,Active,Pistons,9
+Tony,Snell,USA,Tony Snell,CHI,New Mexico,1991-11-10T00:00:00,1610612741,bulls,T. Snell,Chicago,tony_snell,203503,Guard,"Snell, Tony",New Mexico/USA,Active,Bulls,20
+Trey,Burke,USA,Trey Burke,UTA,Michigan,1992-11-12T00:00:00,1610612762,jazz,T. Burke,Utah,trey_burke,203504,Guard,"Burke, Trey",Michigan/USA,Active,Jazz,3
+Vander,Blue,USA,Vander Blue,,Marquette,1992-07-22T00:00:00,0,,V. Blue,,vander_blue,203505,,"Blue, Vander",Marquette/USA,Inactive,,
+Victor,Oladipo,USA,Victor Oladipo,ORL,Indiana,1992-05-04T00:00:00,1610612753,magic,V. Oladipo,Orlando,victor_oladipo,203506,Guard,"Oladipo, Victor",Indiana/USA,Active,Magic,5
+Giannis,Antetokounmpo,Greece,Giannis Antetokounmpo,MIL,Greece,1994-12-06T00:00:00,1610612749,bucks,G. Antetokounmpo,Milwaukee,giannis_antetokounmpo,203507,Guard-Forward,"Antetokounmpo, Giannis",Greece,Active,Bucks,34
+Sergey,Karasev,Russia,Sergey Karasev,CLE,Russia,1993-10-26T00:00:00,1610612739,cavaliers,S. Karasev,Cleveland,sergey_karasev,203508,Guard,"Karasev, Sergey",Russia,Active,Cavaliers,10
+Erik,Murphy,USA,Erik Murphy,UTA,Florida,1990-10-26T00:00:00,1610612762,jazz,E. Murphy,Utah,erik_murphy,203513,Forward,"Murphy, Erik",Florida/USA,Active,Jazz,33
+Phil,Pressey,USA,Phil Pressey,BOS,Missouri,1991-02-17T00:00:00,1610612738,celtics,P. Pressey,Boston,phil_pressey,203515,Guard,"Pressey, Phil",Missouri,Active,Celtics,26
+Nemanja,Nedovic,Serbia,Nemanja Nedovic,GSW,Serbia,1991-06-16T00:00:00,1610612744,warriors,N. Nedovic,Golden State,nemanja_nedovic,203517,Guard,"Nedovic, Nemanja",Serbia,Active,Warriors,8
+Adonis,Thomas,USA,Adonis Thomas,PHI,Memphis,1993-03-25T00:00:00,1610612755,sixers,A. Thomas,Philadelphia,adonis_thomas,203519,Guard-Forward,"Thomas, Adonis",Memphis/USA,Active,76ers,7
+Adonis,Thomas,USA,Adonis Thomas,PHI,Memphis,1993-03-25T00:00:00,1610612755,sixers,A. Thomas,Philadelphia,adonis_thomas,203519,Guard-Forward,"Thomas, Adonis",Memphis/USA,Active,76ers,7
+Adonis,Thomas,USA,Adonis Thomas,PHI,Memphis,1993-03-25T00:00:00,1610612755,sixers,A. Thomas,Philadelphia,adonis_thomas,203519,Guard-Forward,"Thomas, Adonis",Memphis/USA,Active,76ers,7
+Matthew,Dellavedova,Australia,Matthew Dellavedova,CLE,St. Mary's (CA),1990-09-08T00:00:00,1610612739,cavaliers,M. Dellavedova,Cleveland,matthew_dellavedova,203521,Guard,"Dellavedova, Matthew",St. Mary's (CA)/Australia,Active,Cavaliers,8
+Solomon,Hill,USA,Solomon Hill,IND,Arizona,1991-03-18T00:00:00,1610612754,pacers,S. Hill,Indiana,solomon_hill,203524,Forward,"Hill, Solomon",Arizona,Active,Pacers,9
+Ryan,Kelly,USA,Ryan Kelly,LAL,Duke,1991-04-09T00:00:00,1610612747,lakers,R. Kelly,Los Angeles,ryan_kelly,203527,Forward,"Kelly, Ryan",Duke/USA,Active,Lakers,4
+Gal,Mekel,Israel,Gal Mekel,DAL,Wichita State,1988-03-04T00:00:00,1610612742,mavericks,G. Mekel,Dallas,gal_mekel,203539,Guard,"Mekel, Gal",Wichita State/Israel,Active,Mavericks,33
+Gigi,Datome,Italy,Gigi Datome,DET,Italy,1987-11-27T00:00:00,1610612765,pistons,G. Datome,Detroit,luigi_datome,203540,Forward,"Datome, Gigi",Italy,Active,Pistons,13
+Vitor,Faverani,Brazil,Vitor Faverani,BOS,,1988-05-05T00:00:00,1610612738,celtics,V. Faverani,Boston,vitor_faverani,203543,Center,"Faverani, Vitor",Brazil,Active,Celtics,38
+Pero,Antic,Macedonia,Pero Antic,ATL,Macedonia,1982-07-29T00:00:00,1610612737,hawks,P. Antic,Atlanta,pero_antic,203544,Center,"Antic, Pero",Macedonia,Active,Hawks,6
+Miroslav,Raduljica,Serbia,Miroslav Raduljica,MIL,Serbia,1988-01-05T00:00:00,1610612749,bucks,M. Raduljica,Milwaukee,miroslav_raduljica,203545,Center,"Raduljica, Miroslav",Serbia,Active,Bucks,9
+Ian,Clark,USA,Ian Clark,UTA,Belmont University,1991-03-07T00:00:00,1610612762,jazz,I. Clark,Utah,ian_clark,203546,Guard,"Clark, Ian",Belmont University/USA,Active,Jazz,21
+Elias,Harris,Germany,Elias Harris,,Gonzaga,1989-07-06T00:00:00,0,,E. Harris,,elias_harris,203548,,"Harris, Elias",Gonzaga/Germany,Inactive,,
+Seth,Curry,USA,Seth Curry,,Duke,1990-08-23T00:00:00,0,,S. Curry,,seth_curry,203552,,"Curry, Seth",Duke/USA,Inactive,,
+Seth,Curry,USA,Seth Curry,,Duke,1990-08-23T00:00:00,0,,S. Curry,,seth_curry,203552,,"Curry, Seth",Duke/USA,Inactive,,
+Seth,Curry,USA,Seth Curry,,Duke,1990-08-23T00:00:00,0,,S. Curry,,seth_curry,203552,,"Curry, Seth",Duke/USA,Inactive,,
+Brandon,Davies,USA,Brandon Davies,PHI,Brigham Young,1991-07-25T00:00:00,1610612755,sixers,B. Davies,Philadelphia,brandon_davies,203561,Forward,"Davies, Brandon",Brigham Young/USA,Active,76ers,20
+Chris,Babb,USA,Chris Babb,BOS,Iowa State,1990-02-14T00:00:00,1610612738,celtics,C. Babb,Boston,chris_babb,203569,Guard,"Babb, Chris",Iowa State/USA,Active,Celtics,52
+Troy,Daniels,USA,Troy Daniels,HOU,Virginia Commonwealth,1991-07-15T00:00:00,1610612745,rockets,T. Daniels,Houston,troy_daniels,203584,Guard,"Daniels, Troy",Virginia Commonwealth,Active,Rockets,30
+Jamal,Crawford,USA,Jamal Crawford,LAC,Michigan,1980-03-20T00:00:00,1610612746,clippers,J. Crawford,Los Angeles,jamal_crawford,2037,Guard,"Crawford, Jamal",Michigan/USA,Active,Clippers,11
+Casper,Ware,USA,Casper Ware,PHI,Long Beach State,1990-01-17T00:00:00,1610612755,sixers,C. Ware,Philadelphia,casper_ware,203810,Guard,"Ware, Casper",Long Beach State/USA,Active,76ers,17
+Scotty,Hopson,USA,Scotty Hopson,CLE,Tennessee,1989-08-08T00:00:00,1610612739,cavaliers,S. Hopson,Cleveland,scotty_hopson,203816,Guard,"Hopson, Scotty",Tennessee/USA,Active,Cavaliers,24
+Hedo,Turkoglu,Turkey,Hedo Turkoglu,LAC,"Istanbul, Turkey",1979-03-19T00:00:00,1610612746,clippers,H. Turkoglu,Los Angeles,hidayet_turkoglu,2045,Forward,"Turkoglu, Hedo",Efes Pilsen/Turkey,Active,Clippers,8
+Tyson,Chandler,USA,Tyson Chandler,NYK,Dominquez H.S,1982-10-02T00:00:00,1610612752,knicks,T. Chandler,New York,tyson_chandler,2199,Center,"Chandler, Tyson",Dominguez HS (CA)/USA,Active,Knicks,6
+Pau,Gasol,Spain,Pau Gasol,LAL,"Barcelona, Spain",1980-07-06T00:00:00,1610612747,lakers,P. Gasol,Los Angeles,pau_gasol,2200,Center-Forward,"Gasol, Pau",FC Barcelona/Spain,Active,Lakers,16
+Shane,Battier,USA,Shane Battier,MIA,Duke,1978-09-09T00:00:00,1610612748,heat,S. Battier,Miami,shane_battier,2203,Forward,"Battier, Shane",Duke/USA,Active,Heat,31
+Joe,Johnson,USA,Joe Johnson,BKN,Arkansas,1981-06-29T00:00:00,1610612751,nets,J. Johnson,Brooklyn,joe_johnson,2207,Guard,"Johnson, Joe",Arkansas/USA,Active,Nets,7
+Richard,Jefferson,USA,Richard Jefferson,UTA,Arizona,1980-06-21T00:00:00,1610612762,jazz,R. Jefferson,Utah,richard_jefferson,2210,Forward,"Jefferson, Richard",Arizona/USA,Active,Jazz,24
+Jason,Collins,USA,Jason Collins,BKN,Stanford,1978-12-02T00:00:00,1610612751,nets,J. Collins,Brooklyn,jason_collins,2215,Center,"Collins, Jason",Stanford/USA,Active,Nets,98
+Zach,Randolph,USA,Zach Randolph,MEM,Michigan State,1981-07-16T00:00:00,1610612763,grizzlies,Z. Randolph,Memphis,zach_randolph,2216,Forward,"Randolph, Zach",Michigan State/USA,Active,Grizzlies,50
+Gerald,Wallace,USA,Gerald Wallace,BOS,Alabama,1982-07-23T00:00:00,1610612738,celtics,G. Wallace,Boston,gerald_wallace,2222,Forward,"Wallace, Gerald",Alabama/USA,Active,Celtics,45
+Samuel,Dalembert,Haiti,Samuel Dalembert,DAL,Seton Hall,1981-05-10T00:00:00,1610612742,mavericks,S. Dalembert,Dallas,samuel_dalembert,2223,Center,"Dalembert, Samuel",Seton Hall/Haiti,Active,Mavericks,1
+Jamaal,Tinsley,USA,Jamaal Tinsley,,Iowa State,1978-02-28T00:00:00,0,,J. Tinsley,,jamaal_tinsley,2224,,"Tinsley, Jamaal",Iowa State/USA,Inactive,,
+Tony,Parker,France,Tony Parker,SAS,"Paris, France",1982-05-17T00:00:00,1610612759,spurs,T. Parker,San Antonio,tony_parker,2225,Guard,"Parker, Tony",Paris BR/France,Active,Spurs,9
+Mike,James,USA,Mike James,CHI,Duquesne,1975-06-23T00:00:00,1610612741,bulls,M. James,Chicago,mike_james,2229,Guard,"James, Mike",Duquesne/USA,Active,Bulls,8
+Earl,Watson,USA,Earl Watson,POR,UCLA,1979-06-12T00:00:00,1610612757,blazers,E. Watson,Portland,earl_watson,2248,Guard,"Watson, Earl",UCLA/USA,Active,Trail Blazers,17
+Chris,Andersen,USA,Chris Andersen,MIA,Blinn J.C.,1978-07-07T00:00:00,1610612748,heat,C. Andersen,Miami,chris_andersen,2365,Forward-Center,"Andersen, Chris",Blinn Junior College (TX)/USA,Active,Heat,11
+Mike,Dunleavy,USA,Mike Dunleavy,CHI,Duke,1980-09-15T00:00:00,1610612741,bulls,M. Dunleavy,Chicago,mike_dunleavy,2399,Forward,"Dunleavy, Mike",Duke/USA,Active,Bulls,34
+Drew,Gooden,USA,Drew Gooden,WAS,Kansas,1981-09-24T00:00:00,1610612764,wizards,D. Gooden,Washington,drew_gooden,2400,Forward,"Gooden, Drew",Kansas/USA,Active,Wizards,90
+Nene,Hilario,Brazil,Nene,WAS,"Sao Carlos, Brazil",1982-09-13T00:00:00,1610612764,wizards,Nene,Washington,nene,2403,Forward-Center,Nene,Vasco de Gama/Brazil,Active,Wizards,42
+Amar'e,Stoudemire,USA,Amar'e Stoudemire,NYK,Cypress Creek (FL),1982-11-16T00:00:00,1610612752,knicks,A. Stoudemire,New York,amare_stoudemire,2405,Forward-Center,"Stoudemire, Amar'e","Cypress Creek (Orlando, FL)/USA",Active,Knicks,1
+Caron,Butler,USA,Caron Butler,OKC,Connecticut,1980-03-13T00:00:00,1610612760,thunder,C. Butler,Oklahoma City,caron_butler,2406,Forward,"Butler, Caron",Connecticut/USA,Active,Thunder,2
+Caron,Butler,USA,Caron Butler,OKC,Connecticut,1980-03-13T00:00:00,1610612760,thunder,C. Butler,Oklahoma City,caron_butler,2406,Forward,"Butler, Caron",Connecticut/USA,Active,Thunder,2
+Caron,Butler,USA,Caron Butler,OKC,Connecticut,1980-03-13T00:00:00,1610612760,thunder,C. Butler,Oklahoma City,caron_butler,2406,Forward,"Butler, Caron",Connecticut/USA,Active,Thunder,2
+Melvin,Ely,USA,Melvin Ely,NOP,Fresno State,1978-05-02T00:00:00,1610612740,pelicans,M. Ely,New Orleans,melvin_ely,2408,Center-Forward,"Ely, Melvin",Fresno State/USA,Active,Pelicans,4
+Tayshaun,Prince,USA,Tayshaun Prince,MEM,Kentucky,1980-02-28T00:00:00,1610612763,grizzlies,T. Prince,Memphis,tayshaun_prince,2419,Forward,"Prince, Tayshaun",Kentucky/USA,Active,Grizzlies,21
+John,Salmons,USA,John Salmons,TOR,Miami,1979-12-12T00:00:00,1610612761,raptors,J. Salmons,Toronto,john_salmons,2422,Forward-Guard,"Salmons, John",Miami (Fla.)/USA,Active,Raptors,25
+John,Salmons,USA,John Salmons,TOR,Miami,1979-12-12T00:00:00,1610612761,raptors,J. Salmons,Toronto,john_salmons,2422,Forward-Guard,"Salmons, John",Miami (Fla.)/USA,Active,Raptors,25
+John,Salmons,USA,John Salmons,TOR,Miami,1979-12-12T00:00:00,1610612761,raptors,J. Salmons,Toronto,john_salmons,2422,Forward-Guard,"Salmons, John",Miami (Fla.)/USA,Active,Raptors,25
+Roger,Mason Jr.,USA,Roger Mason Jr.,,Virginia,1980-09-10T00:00:00,0,,R. Mason Jr.,,roger_mason-jr,2427,,"Mason Jr., Roger",Virginia/USA,Inactive,,
+Carlos,Boozer,USA,Carlos Boozer,CHI,Duke,1981-11-20T00:00:00,1610612741,bulls,C. Boozer,Chicago,carlos_boozer,2430,Forward,"Boozer, Carlos",Duke/USA,Active,Bulls,5
+Matt,Barnes,USA,Matt Barnes,LAC,UCLA,1980-03-09T00:00:00,1610612746,clippers,M. Barnes,Los Angeles,matt_barnes,2440,Forward,"Barnes, Matt",UCLA/USA,Active,Clippers,22
+Rasual,Butler,USA,Rasual Butler,IND,La Salle,1979-05-23T00:00:00,1610612754,pacers,R. Butler,Indiana,rasual_butler,2446,Guard-Forward,"Butler, Rasual",La Salle/USA,Active,Pacers,8
+Luis,Scola,Argentina,Luis Scola,IND,"Buenos Aires, Argentina",1980-04-30T00:00:00,1610612754,pacers,L. Scola,Indiana,luis_scola,2449,Forward,"Scola, Luis",Tau Ceramica (Argentina)/Argentina,Active,Pacers,4
+Jannero,Pargo,USA,Jannero Pargo,CHA,Arkansas,1979-10-22T00:00:00,1610612766,bobcats,J. Pargo,Charlotte,jannero_pargo,2457,Guard,"Pargo, Jannero",Arkansas/USA,Active,Bobcats,5
+Reggie,Evans,USA,Reggie Evans,SAC,Iowa,1980-05-18T00:00:00,1610612758,kings,R. Evans,Sacramento,reggie_evans,2501,Forward,"Evans, Reggie",Iowa/USA,Active,Kings,30
+Reggie,Evans,USA,Reggie Evans,SAC,Iowa,1980-05-18T00:00:00,1610612758,kings,R. Evans,Sacramento,reggie_evans,2501,Forward,"Evans, Reggie",Iowa/USA,Active,Kings,30
+Reggie,Evans,USA,Reggie Evans,SAC,Iowa,1980-05-18T00:00:00,1610612758,kings,R. Evans,Sacramento,reggie_evans,2501,Forward,"Evans, Reggie",Iowa/USA,Active,Kings,30
+LeBron,James,USA,LeBron James,MIA,St. Vincent-St. Mary HS (OH),1984-12-30T00:00:00,1610612748,heat,L. James,Miami,lebron_james,2544,Forward,"James, LeBron",St. Vincent-St. Mary HS (OH)/USA,Active,Heat,6
+Carmelo,Anthony,USA,Carmelo Anthony,NYK,Syracuse,1984-05-29T00:00:00,1610612752,knicks,C. Anthony,New York,carmelo_anthony,2546,Forward,"Anthony, Carmelo",Syracuse/USA,Active,Knicks,7
+Chris,Bosh,USA,Chris Bosh,MIA,Georgia Tech,1984-03-24T00:00:00,1610612748,heat,C. Bosh,Miami,chris_bosh,2547,Center-Forward,"Bosh, Chris",Georgia Tech/USA,Active,Heat,1
+Dwyane,Wade,USA,Dwyane Wade,MIA,Marquette,1982-01-17T00:00:00,1610612748,heat,D. Wade,Miami,dwyane_wade,2548,Guard,"Wade, Dwyane",Marquette/USA,Active,Heat,3
+Chris,Kaman,USA,Chris Kaman,LAL,Central Michigan,1982-04-28T00:00:00,1610612747,lakers,C. Kaman,Los Angeles,chris_kaman,2549,Center,"Kaman, Chris",Central Michigan/USA,Active,Lakers,9
+Kirk,Hinrich,USA,Kirk Hinrich,CHI,Kansas,1981-01-02T00:00:00,1610612741,bulls,K. Hinrich,Chicago,kirk_hinrich,2550,Guard,"Hinrich, Kirk",Kansas/USA,Active,Bulls,12
+Nick,Collison,USA,Nick Collison,OKC,Kansas,1980-10-26T00:00:00,1610612760,thunder,N. Collison,Oklahoma City,nick_collison,2555,Forward-Center,"Collison, Nick",Kansas/USA,Active,Thunder,4
+Luke,Ridnour,USA,Luke Ridnour,CHA,Oregon,1981-02-13T00:00:00,1610612766,bobcats,L. Ridnour,Charlotte,luke_ridnour,2557,Guard,"Ridnour, Luke",Oregon/USA,Active,Bobcats,13
+Luke,Ridnour,USA,Luke Ridnour,CHA,Oregon,1981-02-13T00:00:00,1610612766,bobcats,L. Ridnour,Charlotte,luke_ridnour,2557,Guard,"Ridnour, Luke",Oregon/USA,Active,Bobcats,13
+Luke,Ridnour,USA,Luke Ridnour,CHA,Oregon,1981-02-13T00:00:00,1610612766,bobcats,L. Ridnour,Charlotte,luke_ridnour,2557,Guard,"Ridnour, Luke",Oregon/USA,Active,Bobcats,13
+David,West,USA,David West,IND,Xavier,1980-08-29T00:00:00,1610612754,pacers,D. West,Indiana,david_west,2561,Forward,"West, David",Xavier (Ohio)/USA,Active,Pacers,21
+Boris,Diaw,France,Boris Diaw,SAS,"Cormeille-en-Parisis, France",1982-04-16T00:00:00,1610612759,spurs,B. Diaw,San Antonio,boris_diaw,2564,Forward,"Diaw, Boris",Pau Orthez/France,Active,Spurs,33
+Travis,Outlaw,USA,Travis Outlaw,SAC,Starkville HS (MS),1984-09-18T00:00:00,1610612758,kings,T. Outlaw,Sacramento,travis_outlaw,2566,Forward,"Outlaw, Travis",Starkville HS (MS)/USA,Active,Kings,25
+Kendrick,Perkins,USA,Kendrick Perkins,OKC,Clifton J. Ozen HS (TX),1984-11-10T00:00:00,1610612760,thunder,K. Perkins,Oklahoma City,kendrick_perkins,2570,Center,"Perkins, Kendrick",Clifton J. Ozen HS (TX)/USA,Active,Thunder,5
+Leandro,Barbosa,Brazil,Leandro Barbosa,PHX,"Sau Paulo, Brazil",1982-11-28T00:00:00,1610612756,suns,L. Barbosa,Phoenix,leandro_barbosa,2571,Guard,"Barbosa, Leandro",Palmeiras/Brazil,Active,Suns,10
+Steve,Blake,USA,Steve Blake,GSW,Maryland,1980-02-26T00:00:00,1610612744,warriors,S. Blake,Golden State,steve_blake,2581,Guard,"Blake, Steve",Maryland/USA,Active,Warriors,25
+Steve,Blake,USA,Steve Blake,GSW,Maryland,1980-02-26T00:00:00,1610612744,warriors,S. Blake,Golden State,steve_blake,2581,Guard,"Blake, Steve",Maryland/USA,Active,Warriors,25
+Steve,Blake,USA,Steve Blake,GSW,Maryland,1980-02-26T00:00:00,1610612744,warriors,S. Blake,Golden State,steve_blake,2581,Guard,"Blake, Steve",Maryland/USA,Active,Warriors,25
+Willie,Green,USA,Willie Green,LAC,Detroit Mercy,1981-07-28T00:00:00,1610612746,clippers,W. Green,Los Angeles,willie_green,2584,Guard,"Green, Willie",Detroit Mercy/USA,Active,Clippers,34
+Zaza,Pachulia,Georgia,Zaza Pachulia,MIL,"Tbilisi, Georgia",1984-02-10T00:00:00,1610612749,bucks,Z. Pachulia,Milwaukee,zaza_pachulia,2585,Center,"Pachulia, Zaza",Ulkerspor/Georgia,Active,Bucks,27
+Keith,Bogans,USA,Keith Bogans,BOS,Kentucky,1980-05-12T00:00:00,1610612738,celtics,K. Bogans,Boston,keith_bogans,2586,Guard-Forward,"Bogans, Keith",Kentucky/USA,Active,Celtics,4
+Matt,Bonner,USA,Matt Bonner,SAS,Florida,1980-04-05T00:00:00,1610612759,spurs,M. Bonner,San Antonio,matt_bonner,2588,Forward-Center,"Bonner, Matt",Florida/USA,Active,Spurs,15
+Mo,Williams,USA,Mo Williams,POR,Alabama,1982-12-19T00:00:00,1610612757,blazers,M. Williams,Portland,maurice_williams,2590,Guard,"Williams, Mo",Alabama/USA,Active,Trail Blazers,25
+James,Jones,USA,James Jones,MIA,Miami,1980-10-04T00:00:00,1610612748,heat,J. Jones,Miami,james_jones,2592,Forward-Guard,"Jones, James",Miami (Fla.)/USA,Active,Heat,22
+Kyle,Korver,USA,Kyle Korver,ATL,Creighton,1981-03-17T00:00:00,1610612737,hawks,K. Korver,Atlanta,kyle_korver,2594,Guard-Forward,"Korver, Kyle",Creighton/USA,Active,Hawks,26
+Udonis,Haslem,USA,Udonis Haslem,MIA,Florida,1980-06-09T00:00:00,1610612748,heat,U. Haslem,Miami,udonis_haslem,2617,Forward,"Haslem, Udonis",Florida/USA,Active,Heat,40
+Josh,Powell,USA,Josh Powell,HOU,North Carolina State,1983-01-25T00:00:00,1610612745,rockets,J. Powell,Houston,josh_powell,2694,Forward,"Powell, Josh",North Carolina State/USA,Active,Rockets,21
+Dwight,Howard,USA,Dwight Howard,HOU,SW Atlanta Christian Academy (GA),1985-12-08T00:00:00,1610612745,rockets,D. Howard,Houston,dwight_howard,2730,Center-Forward,"Howard, Dwight",SW Atlanta Christian Academy (GA)/USA,Active,Rockets,12
+Ben,Gordon,USA,Ben Gordon,,Connecticut,1983-04-04T00:00:00,0,,B. Gordon,,ben_gordon,2732,,"Gordon, Ben",Connecticut/USA,Inactive,,
+Shaun,Livingston,USA,Shaun Livingston,BKN,Peoria Central HS (IL),1985-09-11T00:00:00,1610612751,nets,S. Livingston,Brooklyn,shaun_livingston,2733,Guard,"Livingston, Shaun",Peoria Central HS (IL)/USA,Active,Nets,14
+Devin,Harris,USA,Devin Harris,DAL,Wisconsin,1983-02-27T00:00:00,1610612742,mavericks,D. Harris,Dallas,devin_harris,2734,Guard,"Harris, Devin",Wisconsin/USA,Active,Mavericks,20
+Josh,Childress,USA,Josh Childress,,Stanford,1983-06-20T00:00:00,0,,J. Childress,,josh_childress,2735,,"Childress, Josh",Stanford/USA,Inactive,,
+Luol,Deng,Sudan,Luol Deng,CLE,Duke,1985-04-16T00:00:00,1610612739,cavaliers,L. Deng,Cleveland,luol_deng,2736,Forward,"Deng, Luol",Duke/Sudan,Active,Cavaliers,9
+Luol,Deng,Sudan,Luol Deng,CLE,Duke,1985-04-16T00:00:00,1610612739,cavaliers,L. Deng,Cleveland,luol_deng,2736,Forward,"Deng, Luol",Duke/Sudan,Active,Cavaliers,9
+Luol,Deng,Sudan,Luol Deng,CLE,Duke,1985-04-16T00:00:00,1610612739,cavaliers,L. Deng,Cleveland,luol_deng,2736,Forward,"Deng, Luol",Duke/Sudan,Active,Cavaliers,9
+Andre,Iguodala,USA,Andre Iguodala,GSW,Arizona,1984-01-28T00:00:00,1610612744,warriors,A. Iguodala,Golden State,andre_iguodala,2738,Forward-Guard,"Iguodala, Andre",Arizona/USA,Active,Warriors,9
+Andris,Biedrins,Latvia,Andris Biedrins,,"Riga, Latvia",1986-04-02T00:00:00,0,,A. Biedrins,,andris_biedrins,2740,,"Biedrins, Andris",BK Skonto/Latvia,Inactive,,
+Kris,Humphries,USA,Kris Humphries,BOS,Minnesota,1985-02-06T00:00:00,1610612738,celtics,K. Humphries,Boston,kris_humphries,2743,Center-Forward,"Humphries, Kris",Minnesota/USA,Active,Celtics,43
+Al,Jefferson,USA,Al Jefferson,CHA,Prentiss HS (MS),1985-01-04T00:00:00,1610612766,bobcats,A. Jefferson,Charlotte,al_jefferson,2744,Center,"Jefferson, Al",Prentiss HS (MS)/USA,Active,Bobcats,25
+Josh,Smith,USA,Josh Smith,DET,Oak Hill Academy (VA),1985-12-05T00:00:00,1610612765,pistons,J. Smith,Detroit,josh_smith,2746,Forward,"Smith, Josh","Oak Hill Academy (Mouth of Wilson, VA)/USA",Active,Pistons,6
+J.R.,Smith,USA,J.R. Smith,NYK,St. Benedict's Prep (NJ),1985-09-09T00:00:00,1610612752,knicks,J. Smith,New York,jr_smith,2747,Guard-Forward,"Smith, J.R.","St. Benedict's Prep (Newark, NJ)/USA",Active,Knicks,8
+Dorell,Wright,USA,Dorell Wright,POR,South Kent Prep (CT),1985-12-02T00:00:00,1610612757,blazers,D. Wright,Portland,dorell_wright,2748,Forward,"Wright, Dorell",South Kent Prep HS (CT)/USA,Active,Trail Blazers,1
+Jameer,Nelson,USA,Jameer Nelson,ORL,"St. Joseph's, PA",1982-02-09T00:00:00,1610612753,magic,J. Nelson,Orlando,jameer_nelson,2749,Guard,"Nelson, Jameer",Saint Joseph's/USA,Active,Magic,14
+Tony,Allen,USA,Tony Allen,MEM,Oklahoma State,1982-01-11T00:00:00,1610612763,grizzlies,T. Allen,Memphis,tony_allen,2754,Guard,"Allen, Tony",Oklahoma State/USA,Active,Grizzlies,9
+Kevin,Martin,USA,Kevin Martin,MIN,Western Carolina,1983-02-01T00:00:00,1610612750,timberwolves,K. Martin,Minnesota,kevin_martin,2755,Guard,"Martin, Kevin",Western Carolina/USA,Active,Timberwolves,23
+Sasha,Vujacic,Slovenia,Sasha Vujacic,,"Maribor, Slovenia",1984-03-08T00:00:00,0,,S. Vujacic,,sasha_vujacic,2756,,"Vujacic, Sasha","Maribor, Slovenia/Slovenia",Inactive,,
+Beno,Udrih,Slovenia,Beno Udrih,MEM,"Sempeter, Slovenia",1982-07-05T00:00:00,1610612763,grizzlies,B. Udrih,Memphis,beno_udrih,2757,Guard,"Udrih, Beno",Breil Milano/Slovenia,Active,Grizzlies,19
+Beno,Udrih,Slovenia,Beno Udrih,MEM,"Sempeter, Slovenia",1982-07-05T00:00:00,1610612763,grizzlies,B. Udrih,Memphis,beno_udrih,2757,Guard,"Udrih, Beno",Breil Milano/Slovenia,Active,Grizzlies,19
+Beno,Udrih,Slovenia,Beno Udrih,MEM,"Sempeter, Slovenia",1982-07-05T00:00:00,1610612763,grizzlies,B. Udrih,Memphis,beno_udrih,2757,Guard,"Udrih, Beno",Breil Milano/Slovenia,Active,Grizzlies,19
+Anderson,Varejao,Brazil,Anderson Varejao,CLE,"Santa Teresa, Brazil",1982-09-28T00:00:00,1610612739,cavaliers,A. Varejao,Cleveland,anderson_varejao,2760,Center,"Varejao, Anderson",FC Barcelona/Brazil,Active,Cavaliers,17
+Royal,Ivey,USA,Royal Ivey,,Texas,1981-12-20T00:00:00,0,,R. Ivey,,royal_ivey,2767,,"Ivey, Royal",Texas/USA,Inactive,,
+Trevor,Ariza,USA,Trevor Ariza,WAS,UCLA,1985-06-30T00:00:00,1610612764,wizards,T. Ariza,Washington,trevor_ariza,2772,Forward,"Ariza, Trevor",UCLA/USA,Active,Wizards,1
+Kevin,Garnett,USA,Kevin Garnett,BKN,Farragut Academy HS (CHI),1976-05-19T00:00:00,1610612751,nets,K. Garnett,Brooklyn,kevin_garnett,708,Center-Forward,"Garnett, Kevin",Farragut Academy HS (IL)/USA,Active,Nets,2
+Ray,Allen,USA,Ray Allen,MIA,Connecticut,1975-07-20T00:00:00,1610612748,heat,R. Allen,Miami,ray_allen,951,Guard,"Allen, Ray",Connecticut/USA,Active,Heat,34
+Steve,Nash,Canada,Steve Nash,LAL,Santa Clara,1974-02-07T00:00:00,1610612747,lakers,S. Nash,Los Angeles,steve_nash,959,Guard,"Nash, Steve",Santa Clara/Canada,Active,Lakers,10
+Derek,Fisher,USA,Derek Fisher,OKC,Arkansas-Little Rock,1974-08-09T00:00:00,1610612760,thunder,D. Fisher,Oklahoma City,derek_fisher,965,Guard,"Fisher, Derek",Arkansas-Little Rock/USA,Active,Thunder,6
+Kobe,Bryant,USA,Kobe Bryant,LAL,Lower Merion HS (PA),1978-08-23T00:00:00,1610612747,lakers,K. Bryant,Los Angeles,kobe_bryant,977,Guard,"Bryant, Kobe",Lower Merion HS (PA)/USA,Active,Lakers,24
+Jermaine,O'Neal,USA,Jermaine O'Neal,GSW,Eau Claire HS (SC),1978-10-13T00:00:00,1610612744,warriors,J. O'Neal,Golden State,jermaine_oneal,979,Center-Forward,"O'Neal, Jermaine",Eau Claire HS (SC)/USA,Active,Warriors,7
